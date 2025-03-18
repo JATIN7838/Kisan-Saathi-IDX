@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "223236961975",
+    "project_id": "smartagri-711ff",
+    "storage_bucket": "smartagri-711ff.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:223236961975:android:dffca9a27a9da17f02ff32",
+        "android_client_info": {
+          "package_name": "com.jatin.smartagri"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCAOinMs3mKADcViHE0A3mXEZa1uPNYVmM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
