@@ -1,0 +1,32 @@
+1. Go to C:\Users\Jatin\.ssh in your pc and remove any known_hosts.
+2. type ssh jatin@pi.local in cmd followed by 'yes'.
+3. sudo apt update then sudo apt upgrade.
+5. Follow below steps for touch screen:
+
+sudo rm -rf LCD-show
+git clone https://github.com/goodtft/LCD-show.git
+chmod -R 755 LCD-show
+cd LCD-show/
+sudo ./LCD35-show
+#wait for reboot
+
+6. export DISPLAY=:0 if xinput shows cant connect to x server
+7. sudo nano /boot/config.txt and change dtoverlay=tft35a:rotate=90 to 270 if present otherwise add dtoverlay=tft35a:rotate=270 at the bottom
+8. sudo nano /etc/X11/xorg.conf.d/99-calibration.conf, remove all content and then paste:
+Section "InputClass"
+    Identifier "calibration"
+    MatchProduct "ADS7846 Touchscreen"
+    Option "TransformationMatrix" "1 0 0 0 -1 1 0 0 1"
+EndSection
+9. sudo systemctl restart lightdm followed by sudo reboot now.
+10. ssh from vscode or anyway.
+11. before venv refer to https://datasheets.raspberrypi.com/camera/picamera2-manual.pdf for camera library and use :
+	sudo apt install -y python3-picamera2
+	sudo apt install -y python3-libcamera python3-kms++
+	sudo apt install -y python3-prctl libatlas-base-dev ffmpeg python3-pip
+	sudo apt install -y python3-pyqt5 python3-opengl 
+	python3 -m venv .myenv --system-site-packages
+12. after activating the venv, pip install tk pyserial pandas geocoder
+13. before installing pyaudio package, run sudo apt-get install portaudio19-dev then pip install pyaudio
+14. for firebase use pip install firebase-admin==6.4.0
+15. for pillow, sudo apt-get install python3-pil.imagetk then pip install pillow openai opencv-python
