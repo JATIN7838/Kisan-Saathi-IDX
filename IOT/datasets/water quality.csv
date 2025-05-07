@@ -1,0 +1,1459 @@
+FID,District ,Block,Village,Typeof Observationl Well,Latitude,Longitude,WQL,WQL Category
+1,Ambala,Ambala-I,Nasirpur,PT,30.3510372,76.75955617,450,2
+2,Ambala,Ambala-I,Bullana,DW,30.32341311,76.72988421,1450,2
+3,Ambala,Ambala-I,Bhurangpur,DW,30.2743537,76.63769407,2250,1
+4,Ambala,Ambala-I,Pinjola,DW,30.26,76.6,850,2
+5,Ambala,Ambala-I,Khanna Majra,DW,30.23965094,76.64321211,1450,2
+6,Ambala,Ambala-I,Baknaur,DW,30.25798474,76.66079106,900,2
+7,Ambala,Ambala-I,Chaur Mastpur,DW,30.28256778,76.69212546,1850,2
+8,Ambala,Ambala-I,Hasanpur,DW,30.21,76.9,1000,2
+9,Ambala,Ambala-I,Chhapra,DW,30.1081614,76.61392403,1200,2
+10,Ambala,Ambala-I,Jansui,DW,30.20483122,76.66304934,1450,2
+11,Ambala,Ambala-I,Ambala City,DW,30.34094329,76.81059114,750,2
+12,Ambala,Ambala-I,Ugara,DW,30.31,76.8,1200,2
+13,Ambala,Ambala-I,Tharwa,DW,30.27450333,76.7912489,1000,2
+14,Ambala,Ambala-I,Bichpari,DW,30.23722005,76.7768713,1800,2
+15,Ambala,Ambala-I,Tejan,DW,30.2666513,76.74140302,1000,2
+16,Ambala,Ambala-I,Behbalpur,DW,30.29635301,76.76196944,1850,2
+17,Ambala,Ambala-I,Dukheri,DW,30.28,76.88,800,2
+18,Ambala,Ambala-I,Mohra,DW,30.26389974,76.85106309,900,2
+19,Ambala,Ambala-I,Shahpur,PT,30.24061576,76.68479957,1800,2
+20,Ambala,Ambala-I,Kalumazra,DW,30.37614598,76.73261639,950,2
+21,Ambala,Ambala-II,Ambala Cantt.,DW,30.36782974,76.82998066,750,2
+22,Ambala,Ambala-II,Lohgarh,DW,30.42268204,76.76454006,950,2
+23,Ambala,Ambala-II,Mandaur,DW,30.4013428,76.80611443,850,2
+24,Ambala,Ambala-II,Panjokhra,DW,30.40944287,76.84888791,900,2
+25,Ambala,Ambala-II,Boh,DW,30.38,76.88,750,2
+26,Ambala,Ambala-II,Khojkipur,DW,30.326468,76.86915117,700,2
+27,Ambala,Ambala-II,Bara Khudda,DW,30.31927671,76.90224259,800,2
+28,Ambala,Ambala-II,Kapoori/Saphera,PT,30.33732484,76.92697906,650,2
+29,Ambala,Barara,Akalgarh,PT,30.15342682,77.02310249,1050,2
+30,Ambala,Barara,Holi,PT,30.23330015,77.0683154,750,2
+31,Ambala,Barara,Manki,DW,30.23393733,77.1403105,600,2
+32,Ambala,Barara,Salehpur,DW,30.26179404,77.10347521,850,2
+33,Ambala,Barara,Binjalpur,DW,30.30555442,77.13396866,950,2
+34,Ambala,Barara,Sohana,DW,30.25040493,77.02052461,800,2
+35,Ambala,Barara,Tandwal,DW,30.22750611,76.97720125,1050,2
+36,Ambala,Barara,Barara,PT,30.21066011,77.03828556,500,2
+37,Ambala,Barara,Adhoya,PT,30.18311146,77.03715234,750,2
+38,Ambala,Barara,Ugala,PT,30.19579995,76.97834963,800,2
+39,Ambala,Saha,Tharwa,DW,30.27233309,76.78586041,800,2
+40,Ambala,Saha,Nahoni,PT,30.30387798,77.01393036,750,2
+41,Ambala,Saha,Malakpur,DW,30.3483728,76.98498989,650,2
+42,Ambala,Saha,Mithapur,DW,30.31120066,76.94149527,650,2
+43,Ambala,Saha,Bihta,DW,30.28,76.95,750,2
+44,Ambala,Saha,Dinarpur,PT,30.23535106,76.90287879,950,2
+45,Ambala,Saha,Khanpur,DW,30.25023507,76.87692506,900,2
+46,Ambala,Saha,Nagla,DW,30.25240666,76.95098411,650,2
+47,Ambala,Saha,Saha at Tepla,PT,30.31027191,76.97780461,1000,2
+48,Ambala,Naraingarh,Naraingarh,DW,30.47393806,77.12181885,650,2
+49,Ambala,Naraingarh,Khanpur,DW,30.53205696,77.1137131,550,2
+50,Ambala,Naraingarh,Bhurewala,PT,30.53349082,77.08558895,700,2
+51,Ambala,Naraingarh,Amli,PT,30.41463661,77.15617284,650,2
+52,Ambala,Naraingarh,Nanhera,PT,30.43612463,77.15616828,900,2
+53,Ambala,Naraingarh,Kazampur,PT,30.4330341,77.10722652,900,2
+54,Ambala,Naraingarh,Budhha Khera,DW,30.35783854,77.0644873,700,2
+55,Ambala,Naraingarh,Surgal,PT,30.359,77.133,600,2
+56,Ambala,Shahzadpur,Rajpura,DW,30.36,77,600,2
+57,Ambala,Shahzadpur,Chhota Korwa,PT,30.39705482,76.96537938,600,2
+58,Ambala,Shahzadpur,Sadiqpur,DW,30.43213426,77.06390107,700,2
+59,Ambala,Shahzadpur,Patvi,DW,30.43341655,76.95377287,750,2
+60,Ambala,Shahzadpur,Baragarh,DW,30.46,77.06,850,2
+61,Ambala,Shahzadpur,Mukandpur,DW,30.45868389,76.99632243,550,2
+62,Ambala,Shahzadpur,Kakkar Majra,DW,30.45424302,77.03507032,800,2
+63,Ambala,Shahzadpur,Samru,PT,30.44066482,76.92799954,650,2
+64,Ambala,Shahzadpur,Khera Jattan,PT,30.44572245,76.9087044,900,2
+65,Ambala,Shahzadpur,Shahzadpur,PT,30.44349928,77.0322464,500,2
+66,Ambala,Shahzadpur,Bichali Dhamouli,PT,30.39507757,77.01127248,700,2
+67,Ambala,Shahzadpur,Raiwali,PT,30.45648868,76.93400174,700,2
+68,Panchkula,Pinjore,Kundi,DW,30.68,76.85,1200,2
+69,Panchkula,Pinjore,Kiratpur,DW,30.84776686,76.86590469,700,2
+70,Panchkula,Pinjore,Abdullahpur,DW,30.8082862,76.91521154,550,2
+71,Panchkula,Pinjore,Ram Nagar,DW,30.8728679,76.86146609,800,2
+72,Panchkula,Pinjore,Maranwala,DW,30.8997475,76.82760093,950,2
+73,Panchkula,Pinjore,Shahpur,DW,30.92246877,76.81953731,850,2
+74,Panchkula,Barwala,Ramgarh,DW,30.64846137,76.88405606,950,2
+75,Panchkula,Barwala,Rattewali,DW,30.64145683,76.98195869,800,2
+76,Panchkula,Barwala,Alipur,PT,30.59935786,76.9554138,750,2
+77,Panchkula,Barwala,Toka,PT,30.61328094,76.97033194,650,2
+78,Panchkula,Barwala,Bunga,DW,30.66577968,76.9694196,550,2
+79,Panchkula,Barwala,Barwala,PT,30.55573808,76.93410783,950,2
+80,Panchkula,Raipur Rani,Raipur Rani,PT,30.58223948,77.02335699,800,2
+81,Panchkula,Raipur Rani,Shahjahanpur,DW,30.54754966,77.02180773,600,2
+82,Panchkula,Raipur Rani,Mauli,PT,30.5250524,76.97435173,800,2
+83,Panchkula,Raipur Rani,Hangola,DW,30.52874484,77.02949325,500,2
+84,Panchkula,Raipur Rani,Rehna,DW,30.58807527,77.06251584,650,2
+85,Yamunanagar,Jagadhari,Chaneti,PT,30.16499678,77.33890703,900,2
+86,Yamunanagar,Jagadhari,Kait,DW,30.10098754,77.35216441,850,2
+87,Yamunanagar,Jagadhari,Khurdi,DW,,77.2330904,950,2
+88,Yamunanagar,Jagadhari,Kathwala,DW,30.20140395,77.25747664,700,2
+89,Yamunanagar,Jagadhari,Kail,PT,30.18246184,77.24840761,1000,2
+90,Yamunanagar,Jagadhari,Jharauda,PT,30.18952765,77.30110066,800,2
+91,Yamunanagar,Jagadhari,Mandebari,PT,30.11880471,77.23567865,900,2
+92,Yamunanagar,Jagadhari,Damla,PT,30.09429974,77.2214513,750,2
+93,Yamunanagar,Mustafabad,Talakaur,PT,30.24253416,77.20129135,750,2
+94,Yamunanagar,Mustafabad,Mali Majra,DW,30.19206832,77.12889957,800,2
+95,Yamunanagar,Mustafabad,Mustafabad,PT,30.2,77.15,900,2
+96,Yamunanagar,Mustafabad,Bal Chhappar,DW,30.24811742,77.23402616,700,2
+97,Yamunanagar,Mustafabad,Bari Kanri,PT,30.18,77.18,800,2
+106,Yamunanagar,Chhachhrauli,Chholi,DW,30.27048888,77.3373969,900,2
+107,Yamunanagar,Chhachhrauli,Chhachhrauli,DW,30.24271182,77.35381232,1000,2
+108,Yamunanagar,Chhachhrauli,Ledi,DW,30.30106179,77.38852457,900,2
+109,Yamunanagar,Chhachhrauli,Rampur Jattan,DW,30.37936225,77.37936343,650,2
+110,Yamunanagar,Chhachhrauli,Sahabudin Kalan,DW,30.34964657,77.43229451,850,2
+111,Yamunanagar,Chhachhrauli,Bakarwala,DW,30.30839452,77.4465218,1000,2
+112,Yamunanagar,Chhachhrauli,Baniyanwala,DW,30.34467822,77.46378784,1050,2
+113,Yamunanagar,Chhachhrauli,Khizrabad,DW,30.2973033,77.49724732,800,2
+114,Yamunanagar,Chhachhrauli,Bhood Kalan,DW,30.26561991,77.49664529,900,2
+115,Yamunanagar,Chhachhrauli,Gulabgarh,DW,30.2706054,77.46560964,700,2
+116,Yamunanagar,Chhachhrauli,Herewa,DW,30.22246101,77.40389305,550,2
+117,Yamunanagar,Chhachhrauli,Deodhar,DW,30.23422692,77.46366737,1000,2
+118,Yamunanagar,Chhachhrauli,Lahori Wala,DW,30.21,77.43,1050,2
+119,Yamunanagar,Chhachhrauli,Shahzadpur,DW,30.16285724,77.37822801,800,2
+120,Yamunanagar,Chhachhrauli,Kharwan,DW,30.2,77.36,900,2
+121,Yamunanagar,Chhachhrauli,Fakirmajra,DW,30.34396029,77.42363757,700,2
+122,Yamunanagar,Bilaspur,Bamnoli,DW,30.33878329,77.35792048,850,2
+123,Yamunanagar,Bilaspur,Machhrauli,PT,30.34755596,77.29647549,750,2
+124,Yamunanagar,Bilaspur,Rampur,DW,30.37662015,77.32144169,850,2
+125,Yamunanagar,Bilaspur,Alisherpur Mazra,,30.38678305,77.35989642,750,2
+126,Yamunanagar,Bilaspur,Rulaheri,DW,30.40975105,77.32790138,950,2
+127,Yamunanagar,Bilaspur,Fatehpur Tumbi,DW,30.3322523,77.25087696,650,2
+128,Yamunanagar,Bilaspur,Tunde Ki Taprian,DW,30.4,77.28,800,2
+129,Yamunanagar,Bilaspur,Azizpur,DW,30.31349686,77.23477984,1050,2
+130,Yamunanagar,Bilaspur,Dhalhour,DW,30.3203849,77.18985915,550,2
+131,Yamunanagar,Bilaspur,Bari Pabni,DW,30.26972492,77.23076983,700,2
+132,Yamunanagar,Bilaspur,Chagnauli,DW,30.26534618,77.30136196,900,2
+133,Bhiwani,Dadri-1,Achina,D/W,28.66986986,76.37281881,3500,1
+134,Bhiwani,Dadri-1,Bigowa,D/W,28.65495161,76.43571255,7000,0
+135,Bhiwani,Dadri-1,Ghasola,D/W,28.54,76.26,2600,1
+136,Bhiwani,Dadri-1,Gothra,D/W,28.52309608,76.31440851,6400,0
+137,Bhiwani,Dadri-1,Jhinjjar,D/W,28.65883715,76.33585826,1900,2
+138,Bhiwani,Dadri-1,Kapoori,D/W,28.58,76.28,1200,2
+139,Bhiwani,Dadri-1,Misri,D/W,28.67005251,76.27064788,4000,1
+140,Bhiwani,Dadri-1,Kanheti,D/M,28.61440605,76.3952525,14000,0
+141,Bhiwani,Dadri-1,Mirch,D/W,28.63,76.26,2800,1
+142,Bhiwani,Dadri-1,Mori,D/W,28.52710356,76.27643928,8000,0
+143,Bhiwani,Dadri-1,Makrana,D/W,28.48812527,76.26961067,5900,1
+144,Bhiwani,Dadri-1,Ranila,D/W,28.70076849,76.35770176,15000,0
+145,Bhiwani,Dadri-1,Sankrod,D/W,28.74487921,76.28168517,5700,1
+146,Bhiwani,Dadri-1,Sanjarwas,D/W,28.71712602,76.31388105,900,2
+147,Bhiwani,Dadri-1,Sanwar,D/W,28.69,76.26,2700,1
+148,Bhiwani,Dadri-1,Samaspur,D/W,28.60067756,76.31703207,3800,1
+149,Bhiwani,Dadri-1,Unn,D/W,28.4622492,76.07514861,1700,2
+150,Bhiwani,Dadri-1,Saroopgarh,D/W,28.6151183,76.41680057,4300,1
+151,Bhiwani,Dadri-1,Malpose,,28.793,76.301,5200,1
+152,Bhiwani,Dadri-1,Bound Kalan,D/W,28.779,76.338,5300,1
+153,Bhiwani,Dadri-1,Ramnagar,D/W,28.556,76.272,4300,1
+154,Bhiwani,Dadri-II,Badhwana,D/W,28.46,76.18,3100,1
+155,Bhiwani,Dadri-II,Balrod (Chang road),D/W,28.45,76.21,4900,1
+156,Bhiwani,Dadri-II,Bharavi,D/W,28.58970334,76.22646049,1700,2
+157,Bhiwani,Dadri-II,Bijna,D/W,28.46623119,76.1425807,600,2
+158,Bhiwani,Dadri-II,Birhi Kalan,D/W,28.59527771,76.15437599,2400,1
+159,Bhiwani,Dadri-II,Chiriya,D/W,28.45400915,76.26029072,5600,1
+160,Bhiwani,Dadri-II,Dudhwa,D/W,28.48045859,76.23684318,2800,1
+161,Bhiwani,Dadri-II,Kheri Bura,D/W,28.58,76.2,2800,1
+162,Bhiwani,Dadri-II,Mandola,D/W,28.51477402,76.21022347,2000,2
+163,Bhiwani,Dadri-II,Mandoli,D/W,28.54235906,76.22318473,2800,1
+164,Bhiwani,Dadri-II,Mankwas,D/W,28.57077341,76.10669084,2100,1
+165,Bhiwani,Dadri-II,Noswa,D/W,28.43667359,76.28011882,2800,1
+166,Bhiwani,Dadri-II,Paintawas Khurd,D/W,28.65,76.19,4200,1
+167,Bhiwani,Dadri-II,Sarangpur,T/w,28.664,76.074,4400,1
+168,Bhiwani,Dadri-II,Kalali,D/W,28.528,76.179,6500,0
+169,Bhiwani,Dadri-II,Jhojhu,,28.524,76.142,4300,1
+170,Bhiwani,Bawani Khera,Alakhpura,D/W,29.02,76.04,6200,0
+171,Bhiwani,Bawani Khera,Barsi,D/W,29.04171511,76.02715628,3200,1
+172,Bhiwani,Bawani Khera,Bhani Jattan,D/W,29.01,76.09,3200,1
+173,Bhiwani,Bawani Khera,Bohal,D/W,28.95,75.93,4400,1
+174,Bhiwani,Bawani Khera,Baliyali,D/W,28.88071921,75.99355857,4400,1
+175,Bhiwani,Bawani Khera,Dhanana,D/W,28.92207292,76.16183069,5600,1
+176,Bhiwani,Bawani Khera,Jita Kheri,D/W,29.00412966,75.99666048,1600,2
+177,Bhiwani,Bawani Khera,Jatai,D/W,28.95190718,76.18366433,4400,1
+178,Bhiwani,Bawani Khera,Kheri Dalautpur,D/W,28.98,76.06,7100,0
+179,Bhiwani,Bawani Khera,Lohari Jattu,D/W,28.89961182,76.08107249,5600,1
+180,Bhiwani,Bawani Khera,Malikpur,D/W,29.02348786,75.98876087,1700,2
+181,Bhiwani,Bawani Khera,Mundhal Kalan,D/W,29.02142692,76.1702256,3800,1
+182,Bhiwani,Bawani Khera,Mandhana,D/W,28.90795382,76.12616356,1800,2
+183,Bhiwani,Bawani Khera,Pur,D/W,28.94323531,76.09217456,2600,1
+184,Bhiwani,Bawani Khera,Runhat,D/W,29.00209149,75.91418508,1200,2
+185,Bhiwani,Bawani Khera,Ratera,D/W,28.95023108,75.87885863,1200,2
+186,Bhiwani,Bawani Khera,Talu,D/W,28.96330354,76.14465207,4000,1
+187,Bhiwani,Bawani Khera,Bawani Khera,KOW,28.94172633,76.02905852,1500,2
+188,Bhiwani,Bawani Khera,Sumrakhera,D/W,28.909,76.045,1650,2
+189,Bhiwani,Bawani Khera,Dang Kalan,,28.854,75.99,1500,2
+190,Bhiwani,Bhiwani,Bapora,D/W,28.81,76.06,1600,2
+191,Bhiwani,Bhiwani,Biran,O/W,28.82164949,76.00892608,2060,1
+192,Bhiwani,Bhiwani,Badala,D/W,28.75,76.25,2000,2
+193,Bhiwani,Bhiwani,Chang,D/W,28.87337262,76.23994173,5700,1
+194,Bhiwani,Bhiwani,Devsar,D/W,28.7548014,76.08502857,2200,1
+195,Bhiwani,Bhiwani,Dhana Ladanpur,D/W,28.75,76.16,5600,1
+196,Bhiwani,Bhiwani,Kaluwas,D/W,28.8264921,76.1713731,850,2
+197,Bhiwani,Bhiwani,Golpura,T/well,28.63760772,76.0155075,2000,2
+198,Bhiwani,Bhiwani,Kitlana,D/W,28.66762974,76.17586171,5200,1
+199,Bhiwani,Bhiwani,Manheru,D/W,28.7,76.22,2000,2
+200,Bhiwani,Bhiwani,Naraungabad,D/W,28.79376386,76.22422639,6200,0
+201,Bhiwani,Bhiwani,Nathuwas,D/W,28.81248109,76.18361109,4600,1
+202,Bhiwani,Bhiwani,Ninan,D/W,28.79264119,76.18270743,10950,0
+203,Bhiwani,Bhiwani,Prem Nagar,D/W,28.87017432,76.10688665,2750,1
+204,Bhiwani,Bhiwani,Pehladgarh,D/W,28.72902844,76.129772,14800,0
+205,Bhiwani,Bhiwani,Rewari,D/W,28.83716586,76.24976021,10500,0
+206,Bhiwani,Bhiwani,Rajgarh,D/W,28.69,76.09,1600,2
+207,Bhiwani,Bhiwani,Rupgarh,D/W,28.69,76.11,2400,1
+208,Bhiwani,Bhiwani,Sai,D/W,28.88416976,76.280852,4400,1
+209,Bhiwani,Bhiwani,Tigrana,D/W,28.85748019,76.13787771,2500,1
+210,Bhiwani,Bhiwani,Kharak Kalan,,28.80392185,76.26832057,5900,1
+211,Bhiwani,Bhiwani,Kalinga,,28.78621558,76.19408112,5100,1
+212,Bhiwani,Bhiwani,Sirsa,,28.823,76.262,7800,0
+213,Bhiwani,Bhiwani,Gujrani,,28.84475151,76.17172623,1200,2
+214,Bhiwani,Bhiwani,Mithatal,,28.884,76.175,9800,0
+215,Bhiwani,Bhiwani,Sanga,,28.779,76.226,2200,1
+216,Bhiwani,Bhiwani,Jharwai,,28.84453384,75.8775298,10700,0
+217,Bhiwani,Bhiwani,Nimriwali,,28.71199498,76.14189696,2400,1
+218,Bhiwani,Bhiwani,Badeshra,D/W,28.91643682,76.21116029,1800,2
+219,Bhiwani,Bhiwani,Bhiwani,KOW,28.77871173,76.13204665,2530,1
+220,Bhiwani,Tosham,Alampur,D/W,28.78418049,75.86158017,1100,2
+221,Bhiwani,Tosham,Baganwala,D/W,28.87879978,75.88065863,4300,1
+222,Bhiwani,Tosham,Badala,D/W,28.8286216,75.80591366,2200,1
+223,Bhiwani,Tosham,Dinod,D/W/T/w,28.78182503,76.04499372,3200,1
+224,Bhiwani,Tosham,Dadam,D/W,28.85912623,75.84224346,3200,1
+225,Bhiwani,Tosham,Dhani Mahu,D/W,28.7553036,75.9462845,3100,1
+226,Bhiwani,Tosham,Garanpura,D/W,28.55493336,75.64636123,1300,2
+227,Bhiwani,Tosham,Jhanwari,D/W,28.84020266,75.87397005,1700,2
+228,Bhiwani,Tosham,Kharahri Sohan,D/W,28.84491102,75.91238155,1700,2
+229,Bhiwani,Tosham,Pinjhokra,D/W,28.89033547,75.82064914,1300,2
+230,Bhiwani,Tosham,Sagban,D/W,28.86099312,75.95729926,1800,2
+231,Bhiwani,Tosham,Thillor,D/W,28.80413874,75.83653972,1400,2
+232,Bhiwani,Tosham,Jhully,D/W,28.81121455,75.75634839,2400,1
+233,Bhiwani,Tosham,Nigana Old,D/W,28.77415419,75.94593192,5200,1
+234,Bhiwani,Tosham,Khanak,D/W,28.89785922,75.86332115,1800,2
+235,Bhiwani,Tosham,Tosham,P/tube,28.86770168,75.90548809,3000,1
+236,Bhiwani,Tosham,Mandhan,,28.80039075,75.7285083,1200,2
+237,Bhiwani,Tosham,Miran,,28.842,75.739,1600,2
+238,Bhiwani,Badhara,Bilawal,D/W/T/w,28.56728746,76.07328593,1100,2
+239,Bhiwani,Badhara,Bindraban,T/well,28.55,76.06,900,2
+240,Bhiwani,Badhara,Berla,T/well,28.51,76.01,3300,1
+241,Bhiwani,Badhara,Chandawas,T/well,28.48313179,75.97036648,900,2
+242,Bhiwani,Badhara,Gopi,T/well,28.55304867,75.95231725,1000,2
+243,Bhiwani,Badhara,Gopalwas,T/well,28.39870706,76.02238335,1200,2
+244,Bhiwani,Badhara,Hui,P/T,28.53906485,75.98635867,800,2
+245,Bhiwani,Badhara,Kari Adu,P/T,28.52840572,75.90518218,1900,2
+246,Bhiwani,Badhara,Kari Mod (Tohka),P.T.,28.53998479,75.8623988,800,2
+247,Bhiwani,Badhara,Kari Rupa,T/well,28.53512677,75.87278361,950,2
+248,Bhiwani,Badhara,Kadma,T/well,28.45,76.01,1300,2
+249,Bhiwani,Badhara,Kakroli Hatti,T/well,28.5722597,75.9862502,3100,1
+250,Bhiwani,Badhara,Kakroli Hukmi,T/well,28.56449054,75.95818106,1100,2
+251,Bhiwani,Badhara,Ladawas,T/well,28.58,75.92,1100,2
+252,Bhiwani,Badhara,Lad,T/well,28.47457046,75.90937656,1000,2
+253,Bhiwani,Badhara,Nandha,T/well/P/t,28.45,75.94,1100,2
+254,Bhiwani,Badhara,Todi,T/W,28.50935383,76.08479488,4200,1
+255,Bhiwani,Badhara,Unn,T/well,28.4534808,76.07679034,4200,1
+256,Bhiwani,Badhara,Atela Kalan,T/w,28.59,76.1,1800,2
+257,Bhiwani,Badhara,Dhanasari/ Kanhara,D/W,28.47,76.01,2000,2
+258,Bhiwani,Badhara,Badhara,P.T.,28.51815489,75.93623468,1000,2
+259,Bhiwani,Badhara,Bilawal,T/w,28.576,76.077,1100,2
+260,Bhiwani,Badhara,Badesera,T/W,28.48582566,75.99734965,1100,2
+261,Bhiwani,Badhara,Jawali,P/T,28.51798651,75.97027723,1000,2
+262,Bhiwani,Loharu,Bardu Mugal,T/well,28.64959582,75.77482237,3900,1
+263,Bhiwani,Loharu,Budheri,T/well,28.56152504,75.7006593,3300,1
+264,Bhiwani,Loharu,Digawa Jattan,T/well,28.58279098,75.81761478,2600,1
+265,Bhiwani,Loharu,Kural,T/well,28.61419344,75.85474401,3100,1
+266,Bhiwani,Loharu,Loharu,P.T.,28.4375255,75.81072461,2400,1
+267,Bhiwani,Loharu,Nakipur,T/well,28.57744957,75.7391459,1200,2
+268,Bhiwani,Loharu,Baralu,T/W,28.52734115,75.72600319,1600,2
+269,Bhiwani,Loharu,Digawa Shyama,T/W,28.56997383,75.82468207,2450,1
+270,Bhiwani,Loharu,Damkora,T/W,28.50847964,75.71777379,3200,1
+271,Bhiwani,Loharu,Dhani Ahmad,T/W,28.692,76.077,2500,1
+272,Bhiwani,Loharu,Sigahani,T/w,28.52272335,75.79818215,3200,1
+273,Bhiwani,Loharu,Gagarwas,T/W,28.455,75.873,1000,2
+274,Bhiwani,Loharu,Sohashara,T/W,28.41,75.863,1800,2
+275,Bhiwani,Loharu,Gignow,T/W,28.49,75.803,1500,2
+276,Bhiwani,Kairu,Indiwali,T/W,28.67615153,75.82714252,6400,0
+277,Bhiwani,Kairu,Devrala,D/W,28.69305273,75.81650741,6100,0
+278,Bhiwani,Kairu,Kasumbi,D/W,28.72221939,76.03475412,3300,1
+279,Bhiwani,Kairu,Kairu,D/W,28.69,75.87,7200,0
+280,Bhiwani,Kairu,Khariawas,D/W,28.73077027,75.85117572,3800,1
+281,Bhiwani,Kairu,Lohani,D/W,28.706,76.041,2500,1
+282,Bhiwani,Kairu,Lalawas,T/w,28.63205083,75.89949355,3100,1
+283,Bhiwani,Kairu,Sungarpur,D/W,28.75,75.86,2200,1
+284,Bhiwani,Kairu,Golagarh,T/W,28.6533433,75.97276656,3400,1
+285,Bhiwani,Kairu,Kairu,P/T,28.698,75.882,7200,0
+286,Bhiwani,Kairu,Chainpura,,28.673,76.064,3300,1
+287,Bhiwani,Siwani,Mithi,D/W,28.71411108,75.58734203,7800,0
+288,Bhiwani,Siwani,Matani,D/W,28.737618,75.5629716,11200,0
+289,Bhiwani,Siwani,Siwach,T/W,28.73025126,75.61580471,4800,1
+290,Bhiwani,Siwani,Kalali,D/W,28.76342844,75.63698068,1800,2
+291,Bhiwani,Siwani,Talwani,D/W,28.7672384,75.67621743,6600,0
+292,Bhiwani,Siwani,Chanana,D/W,28.89096705,75.72851223,1500,2
+293,Bhiwani,Siwani,Bhera,D/W,28.82961958,75.68942256,1500,2
+294,Bhiwani,Siwani,Khera,D/W,28.91,75.66,1000,2
+295,Bhiwani,Siwani,Nalaoi,T/W,28.95076568,75.53565038,1400,2
+296,Bhiwani,Siwani,Dhani Mithi,D/W,28.94028417,75.59418088,1000,2
+297,Bhiwani,Siwani,Jhumpa Kalan,T/w,28.76897167,75.53539699,1300,2
+298,Bhiwani,Siwani,Motipura,D/W,28.8127747,75.55285927,17300,0
+299,Bhiwani,Siwani,Budhshelly,T/well,28.82182144,75.57525263,2800,1
+300,Bhiwani,Siwani,Dhani Shelwali,D/W,28.87646,75.51233264,1400,2
+301,Bhiwani,Siwani,Mohila,T/W,28.85297623,75.62388027,1900,2
+302,Bhiwani,Siwani,Siwani,Kow,28.90349183,75.61339622,2000,2
+303,Bhiwani,Bahal,Budhera,T/well,28.62518221,75.77745775,3300,1
+304,Bhiwani,Bahal,Bidhnoi,T/well,28.64371248,75.71821369,3300,1
+306,Bhiwani,Bahal,Sarsi,T/well,28.58862809,75.66936896,3500,1
+307,Bhiwani,Bahal,Serla,T/well,28.64343948,75.68713082,3100,1
+309,Bhiwani,Bahal,Behal,P/tube,28.63608952,75.61629493,3800,1
+311,Bhiwani,Bahal,Paju,T/W,28.57,75.672,2600,1
+485,Mahendergarh,Ateli,Tazpur,P.T,28.08497682,76.2316899,1700,2
+486,Mahendergarh,Ateli,Kheri,G.B,28.04545159,76.34151785,1600,2
+487,Mahendergarh,Ateli,Rampura,G.B,28.07038638,76.32264532,2000,2
+488,Mahendergarh,Ateli,Katkai,G.B,28.14315777,76.2270618,1600,2
+489,Mahendergarh,Ateli,Sarai Bhadur,D.W,28.07660021,76.17544669,800,2
+490,Mahendergarh,Ateli,Ateli (Naodi),DCB,28.09859812,76.26553093,2100,1
+491,Mahendergarh,Ateli,Mahasar,P.H,28.15706339,76.27714349,1900,2
+492,Mahendergarh,Ateli,Bachhod,P.H,28.08875221,76.19804073,1300,2
+493,Mahendergarh,Ateli,Prithipura,DCB,28.0777049,76.2632124,1100,2
+494,Mahendergarh,Ateli,Ateli,P.T,28.09568458,76.2593893,1000,2
+495,Mahendergarh,Kanina,Chelawas,D.W,28.31295987,76.28704535,1700,2
+496,Mahendergarh,Kanina,Chhitroli,D.W,28.37188297,76.26943191,800,2
+497,Mahendergarh,Kanina,Gahara,D.W,28.36798991,76.31158941,1400,2
+498,Mahendergarh,Kanina,Kharkara,D.W,28.36251475,76.24993076,900,2
+499,Mahendergarh,Kanina,Kanina,PT,28.33725478,76.30820751,1400,2
+500,Mahendergarh,Kanina,Nangal M.pur,DW,28.29155152,76.27995315,1500,2
+501,Mahendergarh,Kanina,Nangal Harnath,DW,28.27757818,76.27747751,1700,2
+502,Mahendergarh,Kanina,Pathera,DW,28.32062546,76.21898656,1700,2
+503,Mahendergarh,Kanina,Shelang,DW,28.40305499,76.21867918,1500,2
+504,Mahendergarh,Kanina,Sundrah,DW,28.24221111,76.2630087,1600,2
+505,Mahendergarh,Kanina,Uchat,DW,28.38933169,76.26382156,1200,2
+506,Mahendergarh,M.garh,Basai,DCB,28.40485049,76.17504959,2300,1
+507,Mahendergarh,M.garh,Deroli Jat,DCB,28.17834854,76.15477794,1500,2
+508,Mahendergarh,M.garh,Kothal Khurd,DCB,28.20094886,76.17777605,3300,1
+509,Mahendergarh,M.garh,Nihalawas,GB,28.17312509,76.11121347,1500,2
+510,Mahendergarh,M.garh,Pali,GB,28.33369508,76.13727035,1800,2
+511,Mahendergarh,M.garh,Kurahwata,DCB,28.29015284,76.10665192,3100,1
+512,Mahendergarh,M.garh,Palri,DCB,28.31077773,76.12181172,2800,1
+513,Mahendergarh,Narnaul,Dohar Kalan,GB,28.12178022,76.01883823,800,2
+514,Mahendergarh,Narnaul,God (Balaha Kalan),GB,28.0973961,75.97864982,1200,2
+515,Mahendergarh,Narnaul,Faijlipur,PH,28.04647056,76.14863361,1000,2
+516,Mahendergarh,Narnaul,Koriawas,GB,28.0350584,76.04054944,500,2
+517,Mahendergarh,Narnaul,Mehrampur,DW,28.11040666,76.05688999,800,2
+518,Mahendergarh,Narnaul,Kultazpur,DCB,28.05050019,76.02698974,1100,2
+519,Mahendergarh,Narnaul,Narnaul,KOW/DW,28.04334614,76.11209943,2000,2
+520,Mahendergarh,Narnaul,Narnaul,PT,28.0409951,76.10270549,1300,2
+521,Mahendergarh,Narnaul,Nuniaval,DW,28.0718691,76.13411054,800,2
+522,Mahendergarh,Narnaul,Raghunathpura,DCB,28.07123757,76.06691041,1700,2
+523,Mahendergarh,Narnaul,Thana,GB,28.05667103,76.04073683,900,2
+524,Mahendergarh,Narnaul,Bhakhari Kalan,DW,28.08711588,76.01197713,500,2
+525,Mahendergarh,N/chd,Bamanwaskheta,GB,27.87248665,76.15617875,900,2
+526,Mahendergarh,N/chd,Bungarkha,DCB,27.93085857,76.15354999,1200,2
+527,Mahendergarh,N/chd,Budhwal,DCB,27.81945037,76.16510348,600,2
+528,Mahendergarh,N/chd,Datal,DW,27.86131232,76.1161429,800,2
+529,Mahendergarh,N/chd,Donkhera,DW,27.85211836,76.0600206,700,2
+530,Mahendergarh,N/chd,Kalba,DW,27.86872936,76.13730867,1500,2
+531,Mahendergarh,N/chd,Saidlipur,DW,27.870281,76.07027434,700,2
+532,Mahendergarh,N/chd,Nangal Kalia,DW,27.91888998,76.11815683,800,2
+533,Mahendergarh,N/chd,Amarpura,DCB,28.01240219,76.06127884,1400,2
+534,Mahendergarh,N/chd,Meghot Halla,DW,27.91,76.11,700,2
+535,Mahendergarh,N/chd,Bhojawas,DW,27.94,76.14,1800,2
+536,Mahendergarh,Shima,Khaspur,GB,28.12289058,76.14655337,1100,2
+537,Mahendergarh,Shima,Atali,DW,28.16497152,76.19341786,5600,1
+538,Mahendergarh,Shima,Meerpur,DCB,28.07003127,76.14898005,1000,2
+539,Mahendergarh,Shima,Hudina,DW,28.13310434,76.11751186,1800,2
+540,Mahendergarh,Shima,Faizabad,DW,28.11808568,76.12049406,800,2
+541,Mahendergarh,Shima,Mundia Khera,DW,28.19283754,76.23313225,700,2
+542,Mahendergarh,Shima,Shima,PT,28.15260101,76.16697487,3200,1
+543,Mahendergarh,Nizampur,Basirpur,DCB,28.00900337,76.04427266,1600,2
+544,Mahendergarh,Nizampur,Talot,DW,27.98333585,76.02607006,500,2
+545,Mahendergarh,Nizampur,Dhanota,DW,28.01035291,75.99887506,400,2
+546,Mahendergarh,Nizampur,Dancholi,DW,27.99117276,75.97129972,600,2
+547,Mahendergarh,Nizampur,Bayal,DW,27.86375553,75.98506174,800,2
+548,Mahendergarh,Nizampur,Bigopur,DW,27.9355765,76.0585686,600,2
+549,Mahendergarh,Nizampur,Berundla,DW,27.88037713,76.03421777,1700,2
+550,Mahendergarh,Nizampur,Gangutana,DW,27.86,76.04,600,2
+551,Mahendergarh,Nizampur,G.Jat (N.Gaon),DW,27.86981203,76.00215576,900,2
+552,Mahendergarh,Nizampur,Golwa,PH,27.84297623,76.02911128,800,2
+553,Mahendergarh,Nizampur,Panchnota,DW,27.88688443,75.99945574,1000,2
+554,Mahendergarh,Nizampur,B. Mokhuta,,27.9343911,75.94763436,900,2
+555,Mahendergarh,Nizampur,Sareli,DW,27.84691769,76.0211395,1000,2
+556,Mahendergarh,Nizampur,Pawera,DW,27.95284987,76.01343475,1300,2
+557,Mahendergarh,Nijampur,Nijampur,,27.95665127,75.98950675,800,2
+558,Mahendergarh,Satnali,Barda,DCB,28.32874421,76.0071543,1400,2
+559,Mahendergarh,Satnali,Nawan,DCB,28.37361009,76.01266695,1500,2
+560,Mahendergarh,Satnali,Birisingwas,DCB,28.38728022,76.00767357,1300,2
+561,Mahendergarh,Satnali,Dalanwas,DCB,28.29647567,76.01237795,2100,1
+562,Mahendergarh,Satnali,Nangal Mala,DCB,28.36417149,76.07036675,1200,2
+563,Mahendergarh,Satnali,Balana,GB,28.27393739,76.06121698,600,2
+564,Mahendergarh,Satnali,Akoda,GB,28.41439317,76.1477595,2000,2
+565,Mahendergarh,Satnali,Sohla,DCB,28.23856483,76.03412182,1300,2
+566,Mahendergarh,Satnali,Khudana,DW,28.40270659,76.11208169,1200,2
+567,Rewari,Bawal,Banipur,DW,28.08546733,76.60055239,1500,2
+568,Rewari,Bawal,Bawal,KOW/DW,28.06919686,76.60638579,2000,2
+569,Rewari,Bawal,Bhandoj,DW,28.0223596,76.65874553,1500,2
+570,Rewari,Bawal,Dharan,DW,28.10091656,76.50890835,2200,1
+571,Rewari,Bawal,Darchna,DW,28.02195635,76.56797997,3900,1
+572,Rewari,Bawal,Garhi,DW,28.10768664,76.67865974,1800,2
+573,Rewari,Bawal,Jhabuwa,GB,28.01160248,76.61967389,1000,2
+574,Rewari,Bawal,Kathuwas,DW,28.14604635,76.6558124,1100,2
+575,Rewari,Bawal,Kasola,DW,28.13090749,76.65085893,2700,1
+576,Rewari,Bawal,Khandora,DCB,28.04476964,76.4685822,3000,1
+577,Rewari,Bawal,Naichana,DW,28.10552062,76.56271883,2100,1
+578,Rewari,Bawal,Pragpura (Birwal),GB,28.13301491,76.52505204,2900,1
+579,Rewari,Bawal,Raipur,DW,28.0525743,76.62504541,2800,1
+580,Rewari,Bawal,Saban,DW,28.07769947,76.54596026,2200,1
+581,Rewari,Bawal,Tankri,DCB,28.08055479,76.4871745,3600,1
+582,Rewari,Bawal,Tihara,DW,28.04165745,76.57963206,2000,2
+583,Rewari,Bawal,Pithanwas,DW,28.12,76.61,4900,1
+584,Rewari,Jatusana,Balawas,DW,28.10072267,76.53059884,5000,1
+585,Rewari,Jatusana,Berli Khurd,DW,28.28823256,76.51052082,3200,1
+586,Rewari,Jatusana,Bhotwas,GB,28.22037768,76.52245212,2100,1
+587,Rewari,Jatusana,Jatusana,KOW/DW,28.32020113,76.53594775,2300,1
+588,Rewari,Jatusana,Jatusana,PT,28.32703394,76.53886809,2300,1
+589,Rewari,Jatusana,Kanhori,DW,28.40519452,76.6173862,1200,2
+590,Rewari,Jatusana,Mundawas,DW,28.0906914,76.64407078,2100,1
+591,Rewari,Jatusana,Nangal Mundi,DW,28.26289014,76.49438729,2900,1
+592,Rewari,Jatusana,Palhawas,DW,28.3509299,76.61961202,2000,2
+593,Rewari,Jatusana,Rampuri,GB,28.31178213,76.44705889,1100,2
+594,Rewari,Jatusana,Rohrai,DW,28.31480798,76.59956483,3100,1
+595,Rewari,Jatusana,Shadipur,DW,28.29,76.63,2200,1
+596,Rewari,Jatusana,Gurawara,GB,28.37832275,76.64137407,3100,1
+597,Rewari,Khol,Buroli,DW,28.24431381,76.4455279,1300,2
+598,Rewari,Khol,Gumina,PH,28.17358971,76.5128214,1500,2
+599,Rewari,Khol,Khol,GB,28.19094849,76.39536908,700,2
+600,Rewari,Khol,Kund Mandi,KOW/GB,28.14403607,76.39235736,600,2
+601,Rewari,Khol,Rajpura,DW,28.19360177,76.51086498,2500,1
+602,Rewari,Khol,Sundroj,DW,28.19014136,76.5311492,2900,1
+603,Rewari,Khol,Bhalki Majra,GB,28.1622401,76.41726981,500,2
+604,Rewari,Khol,Siha,GB,28.27889071,76.42064687,700,2
+605,Rewari,Khol,Jainabad,PH,28.28337305,76.38112868,1000,2
+606,Rewari,Khol,Dhawana,DCB,28.23597387,76.39140191,1100,2
+607,Rewari,Khol,Mandola,PT,28.22190252,76.36657456,600,2
+608,Rewari,Khol,Uncha,DCB,28.18642918,76.31459159,1200,2
+609,Rewari,Nahar,Bahu,DW,28.44041176,76.31678232,1300,2
+610,Rewari,Nahar,Bawa,DCB,28.39029144,76.3199829,1500,2
+611,Rewari,Nahar,Bhakli,DW,28.41322627,76.47625358,1400,2
+612,Rewari,Nahar,Bharangi,DW,28.41475185,76.37720455,2200,1
+613,Rewari,Nahar,Bhurthala,GB,28.26918811,76.65012109,4500,1
+614,Rewari,Nahar,Dharoli,DW,28.42268718,76.51978379,1100,2
+615,Rewari,Nahar,Gamri,GB,28.40704863,76.34917228,2400,1
+616,Rewari,Nahar,Garhi,DW,28.40916989,76.33469828,1500,2
+617,Rewari,Nahar,Gudyani,GB,28.35296639,76.53423482,4100,1
+618,Rewari,Nahar,Juddi,DW,28.4246771,76.4336948,2900,1
+619,Rewari,Nahar,Karoli,DW,28.38161064,76.33623044,800,2
+620,Rewari,Nahar,Khera Bahu,DW,28.34925197,76.38191462,1200,2
+621,Rewari,Nahar,Mubarikpur,DW,28.40101132,76.54872289,6500,0
+622,Rewari,Nahar,Nahar,KOW/DW,28.40365666,76.39436881,2500,1
+623,Rewari,Nahar,Ratanthal,DW,28.3849884,76.59249427,4000,1
+624,Rewari,Nahar,Sudharana,DW,28.44997231,76.42823717,2900,1
+625,Rewari,Rewari,Akera,DW,28.22807262,76.84939786,2100,1
+626,Rewari,Rewari,Dhana Alampur,DW,28.15,76.55,2200,1
+627,Rewari,Rewari,Gujar Ghatal,DW,28.23133151,76.83245486,2300,1
+628,Rewari,Rewari,Gurkawas,DW,28.23,76.61,3900,1
+629,Rewari,Rewari,Hansaka,DW,28.20488002,76.68163442,1400,2
+630,Rewari,Rewari,Hari Nagar,DW,28.19745787,76.57341659,6800,0
+631,Rewari,Rewari,Jaitarawas,DW,28.13094282,76.56622934,1700,2
+632,Rewari,Rewari,Jatuwas,DW,28.17009291,76.59198106,1900,2
+633,Rewari,Rewari,Jonawas,DW,28.20112047,76.7020662,1700,2
+634,Rewari,Rewari,Karnawas,DW,28.12457752,76.60312543,3100,1
+635,Rewari,Rewari,Kumbhawas,DW,28.22,76.67,4100,1
+636,Rewari,Rewari,Lakhnaur,DW,28.22801707,76.56363211,2000,2
+637,Rewari,Rewari,Padniawas,DW,28.17322113,76.63656559,3900,1
+638,Rewari,Rewari,Ramgarh,DW,28.23268366,76.67231521,2100,1
+639,Rewari,Rewari,Rewari,KOW/DW,28.19580451,76.61433366,2300,1
+640,Rewari,Rewari,Dharuhera,GB,28.21040345,76.79756156,3000,1
+641,Rewari,Rewari,Kapriwas,GB,28.24322451,76.80526896,1500,2
+642,Rewari,Rewari,Meerpur,GB,28.23,76.68,3100,1
+643,Rohtak,Lakhen Majra,Nandal,O/W,29.05942566,76.49743251,0,2
+644,Rohtak,Lakhen Majra,Lakhan Majra,KOW,29.03,76.48,0,2
+645,Rohtak,Lakhen Majra,Chandi,O/W,29.02837738,76.50488235,0,2
+646,Rohtak,Lakhen Majra,Chiri,O/W,29.04,76.53,0,2
+647,Rohtak,Lakhen Majra,Sasroli,O/W,28.96,76.56,0,2
+648,Rohtak,Lakhen Majra,Sunderpur,O/W,28.93340769,76.56120902,0,2
+649,Rohtak,Lakhen Majra,Titoli,O/W,28.97936075,76.56336417,0,2
+650,Rohtak,Sampla,Pakasma,O/W,28.86126217,76.73891102,0,2
+651,Rohtak,Sampla,Hasangarh,O/W,28.82728864,76.84250287,0,2
+652,Rohtak,Sampla,Ismaila,O/W,28.8,76.73,0,2
+653,Rohtak,Sampla,Kultana,O/W,28.76181185,76.70911452,0,2
+654,Rohtak,Sampla,Giji,O/W,28.80819333,76.77247179,0,2
+655,Rohtak,Sampla,Sampla,P/T,28.766323,76.76945457,0,2
+656,Rohtak,Sampla,Samchana,O/W,28.83263395,76.80322135,0,2
+657,Rohtak,Sampla,Chulana,O/W,28.8,76.68,0,2
+658,Rohtak,Kalanaur,Basana,O/W,28.87930291,76.37093594,0,2
+659,Rohtak,Kalanaur,Sampal,O/W,28.85,76.35,0,2
+660,Rohtak,Kalanaur,Kherari,O/W,28.82,76.35,0,2
+661,Rohtak,Kalanaur,Gudhan,O/W,28.7938779,76.40022123,0,2
+662,Rohtak,Kalanaur,Katesra,O/W,28.77473518,76.40399496,0,2
+663,Rohtak,Kalanaur,Jindran,O/W,28.8222951,76.41884297,0,2
+664,Rohtak,Kalanaur,Lahli,O/W,28.84642036,76.31697625,0,2
+665,Rohtak,Kalanaur,Baniyani,O/W,28.8545963,76.51348331,0,2
+666,Rohtak,Kalanaur,Nigana,O/W,28.76845895,76.43364881,0,2
+667,Rohtak,Kalanaur,Kahanaur,O/W,28.76,76.5,0,2
+668,Rohtak,Kalanaur,Sundana,O/W,28.77445706,76.51711043,0,2
+669,Rohtak,Kalanaur,Pilana,O/W,28.71714664,76.39828759,0,2
+670,Rohtak,Kalanaur,Ballab,O/W,28.81,76.52,0,2
+671,Rohtak,Kalanaur,Sangahera,O/W,28.73058817,76.42045611,0,2
+672,Rohtak,Rohtak,Bhagwatipur,O/W,28.98,76.51,0,2
+673,Rohtak,Rohtak,Samar Gopalpur,O/W,28.96063731,76.50706803,0,2
+674,Rohtak,Rohtak,Bahu Akaberpur,OW,28.9,76.46,0,2
+675,Rohtak,Rohtak,Singhpura Khurd,O/W,28.9118884,76.52192709,0,2
+676,Rohtak,Rohtak,Rohtak,KOW,28.88,76.61,0,2
+677,Rohtak,Rohtak,Sunaria Kalan,O/W,28.85,76.56,0,2
+678,Rohtak,Rohtak,Ladhout,O/W,28.94462541,76.67434807,0,2
+679,Rohtak,Rohtak,Bakheta,O/W,28.91515779,76.80505267,0,2
+680,Rohtak,Rohtak,Bohar,O/W,28.88,76.65,0,2
+681,Rohtak,Rohtak,Majra /Asthal Bohar,O/W,28.86,76.63,0,2
+682,Rohtak,Rohtak,Bhalaut,O/W,28.9,76.7,0,2
+683,Rohtak,Rohtak,Assan,O/W,28.89517895,76.76236157,0,2
+684,Rohtak,Rohtak,Kansala,O/W,28.882986,76.77988138,0,2
+685,Rohtak,Rohtak,Simli,O/W,28.82,76.6,0,2
+686,Rohtak,Rohtak,Karontha,O/W,28.79348173,76.6107769,0,2
+687,Rohtak,Rohtak,Makroli Khurd,O/W,28.92663525,76.63165978,0,2
+688,Rohtak,Rohtak,Mungan,O/W,28.91932361,76.76907287,0,2
+689,Rohtak,Meham,Bedwa,O/W,29.06,76.31,0,2
+690,Rohtak,Meham,Farmana Khas,O/W,29.04706634,76.34115168,0,2
+691,Rohtak,Meham,Seman,OW,29.03532506,76.27835949,0,2
+692,Rohtak,Meham,Bhaini Surjan,O/W,29.01,76.28,0,2
+693,Rohtak,Meham,Bhaini Chanderpal,O/W,29.00961962,76.31324695,0,2
+694,Rohtak,Meham,Meham,KOW,28.96400063,76.29113567,0,2
+695,Rohtak,Meham,Sisar Khas,O/W,28.91,76.25,0,2
+696,Rohtak,Meham,Bharain,O/W,28.96191709,76.38947053,0,2
+697,Rohtak,Meham,Kharkhara,O/W,28.93,76.36,0,2
+698,Rohtak,Meham,Balhamba,O/W,28.93,76.31,0,2
+699,Rohtak,Meham,Ajaib,O/W,28.97367057,76.415616,0,2
+700,Rohtak,Meham,Gurawar,O/W,28.97847385,76.45300332,0,2
+701,Rohtak,Meham,Madina,O/W,28.93338172,76.42479609,0,2
+702,Rohtak,Meham,Nidana,O/W,28.95235372,76.48308755,0,2
+703,Rohtak,Meham,Mokhra Khas,OW,28.89692133,76.42490277,0,2
+704,Rohtak,Meham,Bhaini Bharo,O/W,28.96,76.24,0,2
+705,Jhajjar,Sahlawas,Sahlawas,KOW,28.4514093,76.47104286,0,2
+706,Jhajjar,Sahlawas,Subana,O/W,28.46325572,76.56905745,0,2
+707,Jhajjar,Sahlawas,Chhapar,O/W,28.43796466,76.60457002,0,2
+708,Jhajjar,Matenhail,Matenhail,KOW,28.57331411,76.46812961,0,2
+709,Jhajjar,Matenhail,Chhuchhakwas,O/W,28.59786056,76.51057599,0,2
+710,Jhajjar,Matenhail,Marot,O/W,28.58741901,76.54372783,0,2
+711,Jhajjar,Matenhail,Sasroli,O/W,28.51894392,76.39566221,0,2
+712,Jhajjar,Matenhail,Jharli,O/W,28.49186932,76.38177556,0,2
+713,Jhajjar,Matenhail,Goria,O/W,28.44597402,76.37763503,0,2
+714,Jhajjar,Matenhail,Gawalison,O/W,28.59641644,76.56513661,0,2
+715,Jhajjar,Matenhail,Kaliawas,O/W,28.59324951,76.35743743,0,2
+716,Jhajjar,Bahadurgarh,Ladrawan,O/W,28.78399154,76.93523614,0,2
+717,Jhajjar,Bahadurgarh,Rohad,O/W,28.73809516,76.800034,0,2
+718,Jhajjar,Bahadurgarh,Mandothi,O/W,28.70448437,76.80522465,0,2
+719,Jhajjar,Bahadurgarh,Bahadurgarh,KOW,28.69,76.92,0,2
+720,Jhajjar,Bahadurgarh,Dulhera,O/W,28.64080588,76.77624386,0,2
+721,Jhajjar,Bahadurgarh,Dabodha Khurd,O/W,28.65725866,76.82264432,0,2
+722,Jhajjar,Bahadurgarh,Gola Kalan,O/W,28.61360855,76.78861475,0,2
+723,Jhajjar,Bahadurgarh,Sidipur Lowa,O/W,28.63323344,76.91171328,0,2
+724,Jhajjar,Bahadurgarh,Majri,O/W,28.5905712,76.83190348,0,2
+725,Jhajjar,Bahadurgarh,Badli,O/W,28.56447578,76.8100766,0,2
+726,Jhajjar,Bahadurgarh,Lagarpur,O/W,28.542658,76.82653506,0,2
+727,Jhajjar,Bahadurgarh,Lohat,O/W,28.53519987,76.85387601,0,2
+728,Jhajjar,Bahadurgarh,Bamnoli,O/W,28.72666268,76.94222223,0,2
+729,Jhajjar,Bahadurgarh,Jasor Kheri,O/W,28.79110507,76.86496719,0,2
+730,Jhajjar,Bahadurgarh,Brahi,O/W,28.73033434,76.89659314,0,2
+731,Jhajjar,Bahadurgarh,Kulasi,O/W,28.77736951,76.90369194,0,2
+732,Jhajjar,Bahadurgarh,Nilothi,O/W,28.80477286,76.8741287,0,2
+733,Jhajjar,Beri,Dighal,O/W,28.76,76.62,0,2
+734,Jhajjar,Beri,Dhandhlan,O/W,28.75,76.61,0,2
+735,Jhajjar,Beri,Diwana,O/W,28.77,76.67,0,2
+736,Jhajjar,Beri,Barhana,O/W,28.75,76.66,0,2
+737,Jhajjar,Beri,Siwana,O/W,28.68792808,76.44101067,0,2
+738,Jhajjar,Beri,Chimni,O/W,28.71622549,76.46723724,0,2
+739,Jhajjar,Beri,Bakra,O/W,28.67260663,76.00793887,0,2
+740,Jhajjar,Beri,Bishan,O/W,28.71667205,76.56118245,0,2
+741,Jhajjar,Beri,Beri,KOW,28.6966287,76.57562827,0,2
+742,Jhajjar,Beri,Palra,O/W,28.65050436,76.52762526,0,2
+743,Jhajjar,Beri,Jahajgarh,O/W,28.63132935,76.55120358,0,2
+744,Jhajjar,Beri,Malikpur,O/W,28.63370136,76.48197384,0,2
+745,Jhajjar,Beri,Safipur,O/W,28.61801839,76.4675148,0,2
+746,Jhajjar,Beri,Bhambhewa,O/W,28.79879548,76.64836302,0,2
+747,Jhajjar,Beri,Chhochhi,O/W,28.71834671,76.67468296,0,2
+748,Jhajjar,Jhajjar,Dujana,O/W,28.68,76.63,0,2
+749,Jhajjar,Jhajjar,Gudha,O/W,28.6482394,76.63976847,0,2
+750,Jhajjar,Jhajjar,Gurawar,O/W,28.64876036,76.68359377,0,2
+751,Jhajjar,Jhajjar,Jhajjar,KOW,28.6,76.65,0,2
+752,Jhajjar,Jhajjar,Kheri Asra,O/W,28.66,76.72,0,2
+753,Jhajjar,Jhajjar,Kablana,O/W,28.61314815,76.74053648,0,2
+754,Jhajjar,Jhajjar,Babra,O/W,28.56237259,76.6352293,0,2
+755,Jhajjar,Jhajjar,Jahagirpur,O/W,28.58,76.74,0,2
+756,Jhajjar,Jhajjar,Munimpur,O/W,28.53135814,76.74049895,0,2
+757,Jhajjar,Jhajjar,Dadri Toa,O/W,28.50462942,76.74142813,0,2
+758,Jhajjar,Jhajjar,Ladpur,O/W,28.54628966,76.74208099,0,2
+759,Jhajjar,Jhajjar,Yaqupur,O/W,28.48563275,76.77452099,0,2
+760,Jhajjar,Jhajjar,Talao,O/W,28.60271143,76.61883369,0,2
+761,Jhajjar,Jhajjar,Dhour,O/W,28.53931173,76.71452907,0,2
+762,Sonepat,Kathura,Kathura,P/T,29.08133888,76.57007292,0,2
+763,Sonepat,Kathura,Banwasa,O/W,29.13689011,76.56064156,0,2
+764,Sonepat,Kathura,Dhanana,O/W,29.1,76.5,0,2
+765,Sonepat,Kathura,Nizampur,O/W,29.22453952,76.50439128,0,2
+766,Sonepat,Gohana,Bali Barhaman,O/W,29.07,76.73,0,2
+767,Sonepat,Gohana,Tihar,O/W,29.03321057,76.82531976,0,2
+768,Sonepat,Gohana,Gohana,P/T,29.13211082,76.68302557,0,2
+769,Sonepat,Mundlana,Gangana,O/W,29.22582709,76.61186035,0,2
+770,Sonepat,Mundlana,Jagsi,O/W,29.24584779,76.6589578,0,2
+771,Sonepat,Mundlana,Mundlana,P/T,29.2,76.76,0,2
+772,Sonepat,Mundlana,Khandrai,O/W,29.15899013,76.67898556,0,2
+773,Sonepat,Mundlana,Ishapur Kheri,O/W,29.206468,76.58826326,0,2
+774,Sonepat,Ganaur,Bega,PHT,29.15,77.11,0,2
+775,Sonepat,Ganaur,Datoli,PHT,29.15585055,77.07534667,0,2
+776,Sonepat,Ganaur,Ganaur,PHT,29.13,77.01,0,2
+777,Sonepat,Ganaur,Khubru,O/W,29.15804916,76.91978364,0,2
+778,Sonepat,Ganaur,Larsoli,P/T,29.08,77.05,0,2
+779,Sonepat,Ganaur,Purkhas,O/W,29.10338562,76.94701929,0,2
+802,Sonepat,Rai,Ladpur,P/T,28.91,77.03,0,2
+803,Sonepat,Rai,Kundli,P/T,28.86536012,77.12315044,0,2
+804,Sonepat,Rai,Safiabad,P/T,28.96,77.08,0,2
+805,Sonepat,Rai,Pabsera,P/T,28.92539079,77.18619969,0,2
+806,Sonepat,Rai,Jakholi,P/T,28.93,77.16,0,2
+807,Sonepat,Rai,Mirkpur,O/W,28.98,77.18,0,2
+808,Gurugram,Gurugram,Kherki Daula,P/T,28.402,76.984,840,2
+809,Gurugram,Gurugram,Wazirpur,P/T,28.4177388,76.91148922,1050,2
+810,Gurugram,Gurugram,Gurgaon,P/T,28.46,77.027,1010,2
+811,Gurugram,Gurugram,Wazirabad,O/W,28.44126384,77.08317417,1250,2
+812,Gurugram,Gurugram,Sihi,P/T,28.41,76.96,700,2
+813,Gurugram,Farrukh Nagar,Budhera,O/W,28.43684401,76.74455468,1100,2
+814,Gurugram,Farrukh Nagar,Jamalpur,P/T,28.36575782,76.83506568,550,2
+815,Gurugram,Farrukh Nagar,Sadhrana,P/T,28.45618588,76.90396748,800,2
+816,Gurugram,Farrukh Nagar,Sultanpur,KOW,28.45602652,76.86606019,900,2
+817,Gurugram,Farrukh Nagar,Farrukh Nagar,P/T,28.44278673,76.82270861,690,2
+818,Gurugram,Farrukh Nagar,Jaraun,P/T,28.45303684,76.73058978,1300,2
+819,Gurugram,Farrukh Nagar,Chandu,P/T,28.46842208,76.92195333,570,2
+820,Gurugram,Pataudi,Panchgaon,P/T,28.318,76.897,900,2
+821,Gurugram,Pataudi,Rajpura,P/T,28.34476403,76.71254833,2100,1
+822,Gurugram,Pataudi,Sidhrawali,P/T,28.267,76.832,760,2
+823,Gurugram,Pataudi,Khalilpur,P/T,28.28232657,76.68287792,2200,1
+824,Gurugram,Pataudi,Pataudi,P/T,28.35,76.75,1700,2
+825,Gurugram,Pataudi,Bilaspur,P/T,28.282,76.855,800,2
+826,Gurugram,Pataudi,Uncha Majra,,28.309,76.808,380,2
+827,Gurugram,Sohna,Damdama,O/W,28.29758605,77.1193523,600,2
+828,Gurugram,Sohna,Gangola,O/W,28.25712303,77.20074979,5300,1
+829,Gurugram,Sohna,Sohna,P/T,28.27101283,77.06299314,900,2
+830,Gurugram,Sohna,Dhunela,P/T,28.28566779,77.07227724,800,2
+831,Faridabad,Faridabad,Faridabad,KOW,28.38364421,77.31720355,1250,2
+832,Faridabad,Ballabgarh,Alampur,OW,28.32711396,77.19006073,1350,2
+833,Faridabad,Ballabgarh,Samaypur,OW,28.3141728,77.28457304,2450,1
+834,Faridabad,Ballabgarh,Sahjahnpur,OW,28.31496621,77.47085224,1500,2
+835,Faridabad,Ballabgarh,Chandpur,O/W,28.32298223,77.46517883,1200,2
+836,Faridabad,Ballabgarh,Chhainsa,O/W,28.25551938,77.4654669,950,2
+837,Faridabad,Ballabgarh,Ballabgarh,PT,28.3332811,77.32705656,3500,1
+838,Faridabad,Ballabgarh,Dayalpur,OW,28.305,77.39,1200,2
+839,Faridabad,Ballabgarh,Tigaon,,28.353,77.394,1300,2
+840,Nuh,Taoru,Bhangow,O/W,28.27068339,77.00155825,630,2
+841,Nuh,Taoru,Jorasi,O/W,28.23184135,76.91115931,1550,2
+842,Nuh,Taoru,K.Khan Devla,O/W,28.31612229,76.96594001,620,2
+843,Nuh,Taoru,M.P Ahir,O/W,28.27367528,76.96786922,1500,2
+844,Nuh,Taoru,Rathiwas,O/W,28.23670207,76.8685928,1350,2
+845,Nuh,Taoru,Subhashri,OW,28.1810994,76.90881915,1850,2
+846,Nuh,Taoru,Sabras,P/T,28.26297265,76.93859672,950,2
+847,Nuh,Taoru,Taoru,P/T,28.20789479,76.94910788,870,2
+848,Nuh,Taoru,Rangala,P/T,28.23101853,76.88306492,650,2
+849,Nuh,Nuh,Bainsi,O/W,28.0847983,77.10238165,670,2
+850,Nuh,Nuh,Barwa,O/W,28.16793919,77.03120698,3850,1
+851,Nuh,Nuh,Hasanpur,O/W,28.0851415,77.05487891,3750,1
+852,Nuh,Nuh,Rojkamed,O/W,28.20336761,77.05197935,2850,1
+853,Nuh,Nuh,Tappkan,O/W,28.14260833,76.98586623,2030,1
+854,Nuh,Nuh,Mohd. Pur Nuh,O/W,28.02505944,76.95382253,1010,2
+855,Nuh,Nuh,Nuh,KOW,28.10046459,77.01043424,3850,1
+856,Nuh,Nagina,Gohana,0W,27.99586022,77.02364184,2130,1
+857,Nuh,Nagina,Mandi Khera,0W,27.89240011,76.99330831,4200,1
+858,Nuh,Nagina,Rithath,0W,27.87039667,76.9811459,2350,1
+859,Nuh,Nagina,Bhadas,0W,27.93790134,77.01164669,5100,1
+860,Nuh,Nagina,Rampur Bas,0W,27.8851714,76.98215723,4550,1
+861,Nuh,Nagina,Nagina,K0W,27.91393636,76.98023299,2170,1
+862,Nuh,Nagina,N. Mubarikpur,P/T,27.8848614,76.96125479,820,2
+863,Nuh,Firojpur Jhirka,Agaon,O/W,27.72350344,76.96046516,1430,2
+864,Nuh,Firojpur Jhirka,Biwan,O/W,27.75,77.05,2000,2
+865,Nuh,Firojpur Jhirka,Ghatwasan,O/W,27.84014655,77.05808775,1530,2
+866,Nuh,Firojpur Jhirka,Nasirbas,O/W,27.84053127,76.95957977,2390,1
+867,Nuh,Firojpur Jhirka,Raoli,O/W,27.70827708,76.93270573,1700,2
+868,Nuh,Firojpur Jhirka,Sakarpuri,O/W,27.71,76.96,2350,1
+869,Nuh,Firojpur Jhirka,Sirasbas,O/W,27.82875347,77.06859858,690,2
+870,Nuh,Firojpur Jhirka,Bhond,O/W,27.78242579,76.93016254,930,2
+871,Nuh,Firojpur Jhirka,Kheria Kalan,O/W,27.86212655,77.04575791,1690,2
+872,Nuh,Firojpur Jhirka,Solapur,O/W,27.74316928,76.9424012,1730,2
+873,Nuh,Firojpur Jhirka,Firojpur Jhirka,KOW,27.78557309,76.94369434,1350,2
+874,Nuh,Firojpur Jhirka,Naharika,P/T,27.8186513,77.019478,1750,2
+875,Nuh,Firojpur Jhirka,Chittora,P/T,27.82856777,77.0179735,1630,2
+876,Nuh,Punhana,Bisru,OW,27.90205139,77.20608822,2720,1
+877,Nuh,Punhana,Aminabad,OW,27.79767288,77.24090009,2700,1
+878,Nuh,Punhana,Bichhor,OW,27.84173992,77.30874768,3250,1
+879,Nuh,Punhana,Gulalta,OW,27.91554432,77.1742096,2370,1
+880,Nuh,Punhana,Lohinga Kalan,OW,27.83449699,77.13469358,1870,2
+881,Nuh,Punhana,Niwana,OW,27.85282449,77.15878003,3750,1
+882,Nuh,Punhana,Pinangwan,O/W,27.90146672,77.10192632,2000,2
+883,Nuh,Punhana,Singar,OW,27.86363189,77.25128393,3600,1
+884,Nuh,Punhana,Sikrawa,OW,27.95,77.14,3300,1
+885,Nuh,Punhana,Sunehra,OW,27.8198582,77.21508187,3850,1
+886,Nuh,Punhana,Sarauli,OW,27.93176454,77.18315372,7600,0
+887,Nuh,Punhana,Ghira,OW,27.8712735,77.23360153,3050,1
+888,Palwal,Palwal,Badha,O/W,28.12160942,77.22842556,3050,1
+889,Palwal,Palwal,Deoli,OW,28.22618751,77.32242432,5900,1
+890,Palwal,Palwal,Dhudola,OW,28.20157296,77.26305134,6350,0
+891,Palwal,Palwal,Dhaliaka,O/W,28.21779715,77.2309779,3550,1
+892,Palwal,Palwal,Hazipur,O/W,28.09284495,77.34158463,1550,2
+893,Palwal,Palwal,Janauli,OW,28.18,77.35,2650,1
+894,Palwal,Palwal,Misa,O/W,28.10375448,77.42385803,2650,1
+895,Palwal,Palwal,Pirthala,OW,28.22746255,77.28872003,6100,0
+896,Palwal,Palwal,Harfali,O/W,28.26235558,77.2734237,3630,1
+897,Palwal,Palwal,Gopikhera,O/W,28.19750294,77.40945892,1550,2
+898,Palwal,Palwal,Balai,O/W,28.18932036,77.45129032,1650,2
+899,Palwal,Palwal,Peelak,O/W,28.13117371,77.40207365,5150,1
+900,Palwal,Palwal,Alawalpur,O/W,28.18,77.378,1900,2
+901,Palwal,Hodal,Bhiduki,OW,27.91,77.45,2970,1
+902,Palwal,Hodal,Banswa,OW,27.89,77.45,2630,1
+903,Palwal,Hodal,Gharrota,O/W,27.92040472,77.40022985,3750,1
+904,Palwal,Hodal,Garhi Patti,OW,27.86,77.36,4150,1
+905,Palwal,Hodal,Khirbi,OW,27.90363638,77.42588157,14200,0
+906,Palwal,Hodal,Aurangabad,O/W,28.02368626,77.32520486,1640,2
+907,Palwal,Hodal,Buraka,OW,27.88656907,77.33411026,2150,1
+908,Palwal,Hodal,Lohina,O/W,27.94,77.31,2810,1
+909,Palwal,Hodal,Deeghot,O/W,28.02938884,77.37608042,2170,1
+910,Palwal,Hodal,Hodel,KOW,27.88500595,77.36322532,1950,2
+911,Palwal,Hasanpur,Hassanpur,KOW,27.97192112,77.49454552,2000,2
+912,Palwal,Hasanpur,Lilkhi,OW,27.96312392,77.46152275,2790,1
+913,Palwal,Hasanpur,Pingora,O/W,28.0023177,77.3957148,2750,1
+914,Palwal,Hasanpur,Ramgarh,OW,27.95,77.47,1870,2
+915,Palwal,Hathin,Bajida Pahari,OW,28.05,77.28,1050,2
+916,Palwal,Hathin,Chainssa,OW,28.06429361,77.17360369,2900,1
+917,Palwal,Hathin,Kondal,OW,28.01101925,77.26240749,2350,1
+918,Palwal,Hathin,Khika Hathin,O/W,28.05116871,77.24172594,1170,2
+919,Palwal,Hathin,Manpur,OW,27.98,77.28,2770,1
+920,Palwal,Hathin,Mandkola,OW,28.10699493,77.17259447,1600,2
+921,Palwal,Hathin,Nangal Jat,O/W,27.93682564,77.2741483,1700,2
+922,Palwal,Hathin,Bahin,OW,27.95,77.26,1700,2
+923,Palwal,Hathin,Bhanguri,OW,28.08433584,77.26727986,5950,1
+924,Palwal,Hathin,Alimeo,O/W,27.92568527,77.2470993,2650,1
+925,Palwal,Hathin,Hathin,KOW,28.04,77.23,2050,1
+926,Palwal,Hathin,Andhop,O/W,27.9062018,77.27108961,3800,1
+927,Sirsa,Baragudha,Alikan,P/H,29.67454636,75.11720468,2000,2
+928,Sirsa,Baragudha,Bhangu,KOW,29.65609648,74.9965846,5900,1
+929,Sirsa,Baragudha,Bhinwan,O/W,29.70695845,75.14356996,2500,1
+930,Sirsa,Baragudha,Dhaban,T/W,29.68342862,75.02926959,6000,1
+931,Sirsa,Baragudha,Faggu,O/W,29.77540468,75.11614255,3800,1
+932,Sirsa,Baragudha,Jhorar Rohi,O/W,29.72445206,75.07520809,8000,0
+933,Sirsa,Baragudha,Kurangawali,O/W,29.77101387,75.06901522,9000,0
+934,Sirsa,Baragudha,Mattar,O/W,29.69975458,75.18508912,4000,1
+935,Sirsa,Baragudha,Nagoki,O/W,29.64650647,75.11660721,3700,1
+936,Sirsa,Baragudha,Khuiyan Nepalpur,O/W,29.60190578,74.96551361,3700,1
+937,Sirsa,Baragudha,Panjuana,T/W,29.62240364,74.98515008,2000,2
+938,Sirsa,Baragudha,Rori,O/W,29.75592399,75.20377538,6900,0
+939,Sirsa,Baragudha,Sahuwala,T/W,29.65535919,74.96896808,4900,1
+940,Sirsa,Baragudha,Surtia,T/W,29.79854353,75.18764224,5900,1
+941,Sirsa,Baragudha,Sukhchain,O/W,29.77327934,75.02426548,3900,1
+942,Sirsa,Baragudha,Thiraj,T/W,29.73332858,75.1186445,2900,1
+943,Sirsa,Baragudha,Bappan,O/W,29.66391796,75.06728152,2000,2
+944,Sirsa,Baragudha,Baragudha,T/W,29.69269425,75.00689186,10000,0
+945,Sirsa,Baragudha,Kamal,T/W,29.8062321,75.08478443,2000,2
+946,Sirsa,Baragudha,Mellewala,T/W,29.59987848,75.07501175,2000,2
+947,Sirsa,Baragudha,Bhagsar,T/W,29.68658476,74.89502623,7000,0
+948,Sirsa,Dabwali,Abubshahar,P/Tube,29.85364588,74.61332885,5000,1
+949,Sirsa,Dabwali,Bharu Khera,O/W,29.77587086,74.56147613,2000,2
+950,Sirsa,Dabwali,Chautala,O/W,29.79509759,74.52506656,3600,1
+951,Sirsa,Dabwali,Dabwali Mandi,P/Tube,29.96253677,74.70406921,4000,1
+952,Sirsa,Dabwali,Dabwali Village,O/W,29.94613838,74.7407207,3300,1
+953,Sirsa,Dabwali,Desu Jodha,O/W,29.94939403,74.83637251,2000,2
+954,Sirsa,Dabwali,Ganga,O/W,29.77774898,74.6729801,3600,1
+955,Sirsa,Dabwali,Goriwala,O/W,29.7870932,74.74642569,2800,1
+956,Sirsa,Dabwali,Gobindgarh,O/W,29.86437431,74.67759056,6000,1
+957,Sirsa,Dabwali,Habuana,O/W,29.91155394,74.83166638,2700,1
+958,Sirsa,Dabwali,Jogiwala,O/W,29.95622798,74.77493877,2000,2
+959,Sirsa,Dabwali,Mangeana,O/W,29.93047405,74.79462921,5000,1
+960,Sirsa,Dabwali,Masitan,T/W,29.87903986,74.72151964,4400,1
+961,Sirsa,Dabwali,Matdadu,O/W,29.81583332,74.7501388,3000,1
+962,Sirsa,Dabwali,Maujgarh,O/W,29.85176801,74.723286,1800,2
+963,Sirsa,Dabwali,Panniwala Morikan,O/W,29.71187589,74.90681735,1800,2
+964,Sirsa,Dabwali,Panniwala Ruldu,T/W,29.87841679,74.83091135,2000,2
+965,Sirsa,Dabwali,Sanwant Khera,O/W,29.90222353,74.77199184,5000,1
+966,Sirsa,Dabwali,Sakta Khera,O/W,29.88703189,74.62775888,5200,1
+967,Sirsa,Dabwali,Teja Khera,O/W,29.83235371,74.55410235,3000,1
+968,Sirsa,Dabwali,Kaluana,O/W,29.698434,74.62445529,3000,1
+969,Sirsa,Dabwali,Alikan,O/W,29.92087603,74.72403486,1900,2
+970,Sirsa,Dabwali,Lohgarh,T/W,29.89509338,74.56976995,4000,1
+971,Sirsa,Dabwali,Jottan Wali,T/W,29.5436824,74.64207691,3300,1
+972,Sirsa,Dabwali,Sukera Khera,T/W,29.82172259,74.62447721,5600,1
+973,Sirsa,Dabwali,Jandwala Bisnoian,T/W,29.77836281,74.60884552,2900,1
+974,Sirsa,Dabwali,Modia,T/W,29.78663293,74.70518776,3800,1
+975,Sirsa,Dabwali,Ginder Khera,T/W,29.80323083,74.66573055,1800,2
+976,Sirsa,Nathusari Chopta,Ali Mohamad,T/W,29.45435229,75.10349974,11500,0
+977,Sirsa,Nathusari Chopta,Arniawali,P/h,29.43540028,75.04552087,4600,1
+978,Sirsa,Nathusari Chopta,Barasari,O/W,29.34508998,75.02433103,3900,1
+979,Sirsa,Nathusari Chopta,Bakrianwali,O/W,29.42857595,75.00885702,2000,2
+980,Sirsa,Nathusari Chopta,Chadiwal,O/W,29.43246854,75.1261623,2900,1
+981,Sirsa,Nathusari Chopta,Dhukra,P/h,29.35964406,74.99638669,2000,2
+982,Sirsa,Nathusari Chopta,Ding,O/W,29.4523051,75.26721081,4900,1
+983,Sirsa,Nathusari Chopta,Gadli,P/h,29.42810215,75.23210984,2000,2
+984,Sirsa,Nathusari Chopta,Ganja Rupana,T/W,29.35599118,75.24682759,12000,0
+985,Sirsa,Nathusari Chopta,Gusaiana,O/W,29.24221219,75.08448901,7200,0
+986,Sirsa,Nathusari Chopta,Gudia Khera,O/W,29.38429485,74.98819656,5000,1
+987,Sirsa,Nathusari Chopta,Hanjira,O/W,29.32196427,75.0961902,3300,1
+988,Sirsa,Nathusari Chopta,Jamal,O/W,29.31306022,74.97702652,3500,1
+989,Sirsa,Nathusari Chopta,Jogiwala,O/W,29.2547382,75.22021654,2000,2
+990,Sirsa,Nathusari Chopta,Jorkian,O/W,29.29785734,75.0534231,7300,0
+991,Sirsa,Nathusari Chopta,Kagdana,O/W,29.29567587,75.17033937,8000,0
+992,Sirsa,Nathusari Chopta,Kairanwali,O/W,29.39675494,75.18502819,3900,1
+993,Sirsa,Nathusari Chopta,Kukarthana,O/W,29.46946888,75.23472821,3000,1
+994,Sirsa,Nathusari Chopta,Kumharia,O/W,29.24994581,75.14453607,4000,1
+995,Sirsa,Nathusari Chopta,Kutiana,O/W,29.30700219,75.0013888,4000,1
+996,Sirsa,Nathusari Chopta,Ludesar,KOW,29.35745319,75.09356916,7900,0
+997,Sirsa,Nathusari Chopta,Makhosrani,T/W,29.3720891,75.16890982,2800,1
+998,Sirsa,Nathusari Chopta,Modia Khera,T/W,29.43236406,74.96932075,4000,1
+999,Sirsa,Nathusari Chopta,Nehrana,T/W,29.37846211,75.20522579,3900,1
+1000,Sirsa,Nathusari Chopta,Nathushri Chopta,P/Tube,29.36399288,75.12664238,4000,1
+1001,Sirsa,Nathusari Chopta,Nirban,T/W,29.38956064,75.04604658,2000,2
+1002,Sirsa,Nathusari Chopta,Raipur,P/H,29.35722075,75.04461587,2000,2
+1003,Sirsa,Nathusari Chopta,Rampura Bagrian,O/W,29.2821434,75.17825106,11000,0
+1004,Sirsa,Nathusari Chopta,Randhawa,O/W,29.42431069,75.06313753,2000,2
+1005,Sirsa,Nathusari Chopta,Rupana Darba,O/W,29.39143928,75.09484359,4000,1
+1006,Sirsa,Nathusari Chopta,Sahuwala,O/W,29.432729,75.16644655,2000,2
+1007,Sirsa,Nathusari Chopta,Sherpura,O/W,29.45276556,75.19913652,8900,0
+1008,Sirsa,Nathusari Chopta,Shahapuria,T/W,29.27005783,75.16133854,9100,0
+1009,Sirsa,Nathusari Chopta,Tajia Khera,O/W,29.46550827,75.16961661,3600,1
+1010,Sirsa,Nathusari Chopta,Chaharwala,O/W,29.27606611,75.21846458,3200,1
+1011,Sirsa,Nathusari Chopta,Nejia,T/W,29.45584767,75.08221876,10000,0
+1012,Sirsa,Nathusari Chopta,Suker Mandori,T/W,29.32693306,75.19107422,11500,0
+1013,Sirsa,Nathusari Chopta,Tarkawali,T/W,29.34861699,75.16358764,9000,0
+1014,Sirsa,Ellenabad,Bhuratwala,O/W,29.40852683,74.78322238,6000,1
+1015,Sirsa,Ellenabad,Beharwala,T/W,29.45151757,74.57677056,5000,1
+1016,Sirsa,Ellenabad,Chilkani Dhab,O/W,29.38697459,74.80191174,2000,2
+1017,Sirsa,Ellenabad,Dholpalia,O/W,29.43224913,74.57371345,5500,1
+1018,Sirsa,Ellenabad,Ellanabad,A/R,29.44861635,74.65781314,2900,1
+1019,Sirsa,Ellenabad,Humayu Khera,P/H,29.47553844,74.76726877,2000,2
+1020,Sirsa,Ellenabad,Jiwan Nagar,O/W,29.52420269,74.7371241,2500,1
+1021,Sirsa,Ellenabad,Jagmalera,O/W,29.41519502,74.63951121,2800,1
+1022,Sirsa,Ellenabad,Karamshana,O/W,29.34706664,74.63210464,2000,2
+1023,Sirsa,Ellenabad,Kesupura,P/H,29.442183,74.85709361,2000,2
+1024,Sirsa,Ellenabad,Kariwala,O/W,29.57032947,74.63443619,2300,1
+1025,Sirsa,Ellenabad,Kashiramka Bass,O/W,29.4307578,74.61077868,7400,0
+1026,Sirsa,Ellenabad,Khari Sureran,O/W,29.39854351,74.68895142,2800,1
+1027,Sirsa,Ellenabad,Kotli,P/H,29.44404426,74.84115665,2000,2
+1028,Sirsa,Ellenabad,Mehana Khera,P/H,29.59778343,74.8176802,3900,1
+1029,Sirsa,Ellenabad,Mirjapur,P/H,29.51321662,74.68530205,2000,2
+1030,Sirsa,Ellenabad,Mithi Sureran,P/H,29.41072157,74.70444632,3000,1
+1031,Sirsa,Ellenabad,Mamera Kalan,P/H,29.45981321,74.70626455,7000,0
+1032,Sirsa,Ellenabad,Nimla,O/W,29.40893007,74.5943494,7000,0
+1033,Sirsa,Ellenabad,Pohrka,T/W,29.41597285,74.7454964,2900,1
+1034,Sirsa,Ellenabad,Patti Kirpal,P/H,29.48861035,74.74865232,2000,2
+1035,Sirsa,Ellenabad,Umedpura,P/H,29.41992203,74.83891123,4400,1
+1036,Sirsa,Ellenabad,Talwara Khurd,P/H,29.49516941,74.63383058,2000,2
+1037,Sirsa,Ellenabad,Thobrian,P/H,29.51057488,74.66729723,2700,1
+1038,Sirsa,Ellenabad,Budhimari,P/H,29.48307568,74.7147345,2000,2
+1039,Sirsa,Ellenabad,Jiwan Nagar,P/H,29.53175728,74.74048817,1900,2
+1040,Sirsa,Ellenabad,Damdama,O/W,29.57072033,74.67758715,2000,2
+1041,Sirsa,Ellenabad,Seku Khera,P/H,29.62193085,74.95043903,1900,2
+1042,Sirsa,Ellenabad,Kuta Bad,P/H,29.45541532,74.81934085,2000,2
+1043,Sirsa,Ellenabad,Moju Khera,A/R,29.46942289,74.74006785,3300,1
+1044,Sirsa,Odhan,Chakerian,T/W,29.79019591,74.93274939,2000,2
+1045,Sirsa,Odhan,Chormar Khera,O/W,29.8147439,74.85341784,12000,0
+1046,Sirsa,Odhan,Dharmpura,O/W,29.56141919,74.6676366,3000,1
+1047,Sirsa,Odhan,Daddu,T/W,29.83225293,75.05270647,4400,1
+1048,Sirsa,Odhan,Desu Malkana,O/W,29.80896308,74.93987864,2000,2
+1049,Sirsa,Odhan,Hassu,T/W,29.8940644,74.93862186,3600,1
+1050,Sirsa,Odhan,Jagmalwali,T/W,29.85040395,74.90925409,3900,1
+1051,Sirsa,Odhan,Kalanwali,T/W,29.83008105,74.96692371,4600,1
+1052,Sirsa,Odhan,Kewal,O/W,29.86110431,75.04145923,2000,2
+1053,Sirsa,Odhan,Lakranwali,T/W,29.76189823,74.98620528,5900,1
+1054,Sirsa,Odhan,Malikpura,O/W,29.81379115,74.79889072,5000,1
+1055,Sirsa,Odhan,Pipli,P/H,29.86513387,74.89101315,4000,1
+1056,Sirsa,Odhan,Singhpura,O/W,29.89500191,75.09955559,3000,1
+1057,Sirsa,Odhan,Salam Khera,O/W,29.7758741,74.87492694,2000,2
+1058,Sirsa,Odhan,Takhatmal,O/W,29.85080222,75.00877199,1800,2
+1059,Sirsa,Odhan,Trilokewala,O/W,29.81449316,75.02920178,2000,2
+1060,Sirsa,Odhan,Jalalana,T/W,29.81667864,74.89668853,2000,2
+1061,Sirsa,Odhan,Odhan,P/Tube,29.7689283,74.8967072,4400,1
+1062,Sirsa,Sirsa,Baruwali,P/H,29.59337735,75.20459503,8000,0
+1063,Sirsa,Sirsa,Bansudhar,P/H,29.57942031,74.9804367,3000,1
+1064,Sirsa,Sirsa,Chamal,P/H,29.58209215,74.96307227,1800,2
+1065,Sirsa,Sirsa,Khairpur,A/R,29.53177969,75.05100372,2000,2
+1066,Sirsa,Sirsa,Farwain Kalan,P/H,29.61469032,75.11363283,1600,2
+1067,Sirsa,Sirsa,Madhosinghana,P/H,29.41868401,74.92664961,2700,1
+1068,Sirsa,Sirsa,Nejadela Kalan,T/W,29.59,75.001,4500,1
+1069,Sirsa,Sirsa,Panihari,P/H,29.63710529,75.1456387,5300,1
+1070,Sirsa,Sirsa,Shahpur Begu,P/Tube,29.48506466,75.05326611,2000,2
+1071,Sirsa,Sirsa,Kanganpur,P/H,29.51610714,75.05526171,2000,2
+1072,Sirsa,Sirsa,Kotli,P/H,29.44665717,74.83902606,2000,2
+1073,Sirsa,Sirsa,Titu khera,P/Tube,29.50101926,74.95592141,1800,2
+1074,Sirsa,Sirsa,Mirpur,P/H,29.58006617,75.01793832,1800,2
+1075,Sirsa,Sirsa,Ahamedpur,P/H,29.57455542,74.99427993,1800,2
+1076,Sirsa,Sirsa,Musahibwala,P/H,29.66325062,75.16296265,5200,1
+1077,Sirsa,Sirsa,Phoolkan,A/R,29.48867644,75.11832557,4700,1
+1078,Sirsa,Sirsa,Kashumbi,P/Tube,29.4808186,75.17443456,2000,2
+1079,Sirsa,Sirsa,Rassulpur,P/Tube,29.5554217,75.14085965,4000,1
+1080,Sirsa,Sirsa,Sikanderpur,P/Tube,29.55196416,75.11479946,2000,2
+1081,Sirsa,Sirsa,Bhawdeen,P/Tube,29.54196846,75.21555827,1800,2
+1082,Sirsa,Sirsa,Bajekan,P/Tube,29.50114023,75.08939119,2700,1
+1083,Sirsa,Sirsa,Bhamboor,A/R,29.51607667,74.96772755,1900,2
+1084,Sirsa,Rania,Abholi,P/H,29.50375763,74.87446973,1800,2
+1085,Sirsa,Rania,Balasar,A/R,29.55644599,74.77796101,3800,1
+1098,Sirsa,Rania,Moujdeen,P/H,29.45430775,74.88729157,2000,2
+1099,Sirsa,Rania,Nanuana,T/W,29.5459764,74.8586542,3800,1
+1100,Sirsa,Rania,Nakaura,P/H,29.50064134,74.74819681,1800,2
+1101,Sirsa,Rania,Nathor,P/H,29.62594191,74.63221706,4200,1
+1102,Sirsa,Rania,Rania,KOW,29.51732644,74.83554808,2590,1
+1103,Sirsa,Rania,Sadewala,O/W,29.63787859,74.72280363,3800,1
+1104,Sirsa,Rania,Sainpal,P/Tube,29.6134432,74.64606274,3400,1
+1105,Sirsa,Rania,Ottu,P/H,29.49221974,74.89243818,2000,2
+1106,Sirsa,Rania,Peer Khera,O/W,29.63374692,74.90616772,6000,1
+1107,Sirsa,Rania,Bharolain Wali,A/R,29.54659977,74.7694663,1900,2
+1108,Sirsa,Rania,Dhanoor,P/H,29.53200802,74.91823422,1600,2
+1109,Karnal,Karnal,Kachwa,D/W,29.7222206,76.88332334,600,2
+1110,Karnal,Karnal,Pundrak,P.H,29.7160714,76.93471444,550,2
+1111,Karnal,Karnal,Darar,P.H,29.75984755,77.00318567,950,2
+1112,Karnal,Karnal,Karnal,P.T,29.68570944,76.98029236,600,2
+1113,Karnal,Karnal,Phusgarh,P.H.,29.68,77.02,450,2
+1114,Karnal,Karnal,Chundipur,P.H.,29.65728239,77.08384089,700,2
+1115,Karnal,Karnal,Subri,P.H.,29.69706058,77.05361667,250,2
+1116,Karnal,Karnal,Newal,P.H.,29.72130401,77.05057347,600,2
+1117,Karnal,Karnal,Gheer,P.H.,29.77593126,77.10388955,500,2
+1118,Karnal,Karnal,Nabipur,D/W,29.72515307,77.10739294,450,2
+1119,Karnal,Karnal,Nalipar,P.H.,29.68856039,77.09478328,450,2
+1120,Karnal,Karnal,Jaroli,P.H.,29.74528283,77.11243322,550,2
+1121,Karnal,Karnal,Nasirpur,P.H.,29.68456971,77.11405612,450,2
+1169,Karnal,Chirao,Jundla,R.W,29.65,76.86,950,2
+1170,Karnal,Chirao,Guniyana,P.H,29.70678707,76.71057442,700,2
+1171,Karnal,Chirao,Amupur,P.H,29.76,76.72,650,2
+1172,Karnal,Chirao,Jani,PH,29.618,76.897,950,2
+1173,Karnal,Gharaunda,Gharunda,PT,29.53,76.96,300,2
+1174,Karnal,Gharaunda,Shekhpura,PH,29.51,76.95,1100,2
+1175,Karnal,Gharaunda,Begampur,PH,29.48649811,76.90634239,550,2
+1176,Karnal,Gharaunda,Chaura,PT,29.55182885,77.03216613,700,2
+1177,Karnal,Gharaunda,Barsat,PT,29.5,77.05,800,2
+1178,Karnal,Gharaunda,Jhiwerheri,PH,29.59,76.96,750,2
+1179,Karnal,Gharaunda,Bijna,PH,29.59325414,76.92607076,800,2
+1180,Karnal,Gharaunda,Imratpur Kalan,PH,29.58679082,77.04926333,550,2
+1181,Karnal,Gharaunda,Kohand,PH,29.48627153,76.96208526,650,2
+1182,Karnal,Gharaunda,Bastara,P.H,29.56291783,76.98815224,700,2
+1183,Karnal,Gharaunda,Mundi Garhi,PH,29.532,77.078,700,2
+1184,Karnal,Assandh,Ballah,P.H,29.51286684,76.7925073,1800,2
+1185,Karnal,Assandh,Bhamber Heri,P.H,29.56843844,76.79270902,1100,2
+1186,Karnal,Assandh,Kurlan,P.H,29.551,76.742,1100,2
+1187,Karnal,Assandh,Jalmana,PH,29.58537604,76.70965363,2000,2
+1188,Karnal,Assandh,Rattak,D/W,29.5817819,76.62275119,1150,2
+1189,Karnal,Assandh,Salwan,D/W,29.50038538,76.71344513,1000,2
+1190,Karnal,Assandh,Assandh,P/T,29.51,76.6,850,2
+1191,Karnal,Assandh,Bilona,P.H,29.58322559,76.5606747,950,2
+1192,Karnal,Assandh,Chochra,P.H,29.62918146,76.63036741,750,2
+1193,Karnal,Assandh,Jaisinghpura,D/W,29.53276292,76.61839765,650,2
+1194,Karnal,Assandh,Khijrabad,D/W,29.56095186,76.59231415,950,2
+1195,Karnal,Assandh,Padana,D/W,29.49387221,76.67966483,850,2
+1196,Karnal,Assandh,Risalwa,D/W,29.48740167,76.70790683,1950,2
+1197,Karnal,Assandh,Thari,D/W,29.56214374,76.69922233,2050,1
+1198,Karnal,Assandh,Dupedi,D/W,29.50390088,76.65966994,900,2
+1199,Karnal,Assandh,Mormajra,P.H,29.482,76.784,1550,2
+1200,Karnal,Assandh,Goli,D/W,29.49,76.76,850,2
+1201,Karnal,Assandh,Mund,D/W,29.51374606,76.54431484,800,2
+1202,Karnal,Assandh,Ardana,D/W,29.61259608,76.571072,750,2
+1203,Karnal,Assandh,Gangateri,D/W,29.49475059,76.54634088,1000,2
+1204,Karnal,Assandh,Pacca Khera,D/W,29.5942793,76.7833237,900,2
+1205,Karnal,Assandh,Uplani,PH,29.61433871,76.66621853,950,2
+1206,Karnal,Assandh,Choor Karsa,PH,29.63603755,76.67184754,850,2
+1207,Karnal,Assandh,Popra,D/W,29.51719949,76.57852439,900,2
+1208,Karnal,Assandh,Bahri,D/W,29.50817375,76.51055617,850,2
+1209,Panipat,Panipat,Assan Kalan,KOW,29.41423964,76.87924429,2750,1
+1210,Panipat,Panipat,Binjol,P/H,29.35,76.94,550,2
+1211,Panipat,Panipat,Diwana,P/H,29.30842374,76.96977539,950,2
+1212,Panipat,Panipat,Siwah,P/H,29.33,76.97,1900,2
+1213,Panipat,Panipat,Sundapur,P/H,29.36,76.93,400,2
+1214,Panipat,Panipat,Rajakheri,P/H,29.40106732,77.01395789,650,2
+1215,Panipat,Panipat,Ganjbar,P/H,29.44328403,76.96036049,1100,2
+1216,Panipat,Panipat,Babail,P/H,29.42251713,77.0477601,750,2
+1217,Panipat,Panipat,Kutani,P/H,29.41417144,77.0104093,800,2
+1218,Panipat,Panipat,Nizampur,P/H,29.44131453,76.98190053,700,2
+1219,Panipat,Samalkha,Patti Kalayana,PH,29.20224507,77.02309143,650,2
+1220,Panipat,Samalkha,Dehra,PH,29.2032337,77.06703013,650,2
+1221,Panipat,Samalkha,Atta,PH,29.24804979,77.10257331,750,2
+1222,Panipat,Samalkha,Kiwana,KOW,29.22040185,76.98015944,800,2
+1223,Panipat,Samalkha,Naraina,PH,29.26860849,76.95882161,650,2
+1224,Panipat,Samalkha,Samalkha,P/T,29.23,77.01,1050,2
+1225,Panipat,Samalkha,Bashera,PH,29.18474574,77.09183726,1200,2
+1226,Panipat,Samalkha,Karhans,R/W,29.27065477,77.0108176,750,2
+1227,Panipat,Samalkha,Wazirpur Tatana,PH,29.26290913,76.92556038,950,2
+1228,Panipat,Samalkha,Hathwala,PH,29.23164642,77.1168885,700,2
+1229,Panipat,Samalkha,Rakshera,PH,29.18369734,77.11029439,800,2
+1230,Panipat,Madlauda,Bhadar,D/W,29.34,76.88,950,2
+1231,Panipat,Madlauda,Narah,D/W,29.42,76.91,1200,2
+1232,Panipat,Madlauda,Dumiana,D/W,29.32488814,76.71280595,1950,2
+1233,Panipat,Madlauda,Kalkha,D/W,29.32400112,76.84415824,950,2
+1234,Panipat,Madlauda,Madlauda,P/T,29.39404772,76.79880468,1500,2
+1235,Panipat,Madlauda,Qawi,D/W,29.43,76.77,750,2
+1236,Panipat,Madlauda,Shera,KOW,29.4343503,76.81266914,1600,2
+1237,Panipat,Madlauda,Sutana,D/W,29.37601489,76.87372644,850,2
+1238,Panipat,Madlauda,Urlana Kalan,D/W,29.34,76.68,200,2
+1239,Panipat,Madlauda,Waisari,D/W,29.37,76.82,1150,2
+1240,Panipat,Madlauda,Khandra,D/W,29.42284937,76.84177913,1500,2
+1241,Panipat,Madlauda,Baholi,P/T,29.47276118,76.88728548,250,2
+1242,Panipat,Israna,Baupur,P.H,29.31,76.81,1000,2
+1243,Panipat,Israna,Ahar,P.H,29.29466935,76.74281165,850,2
+1244,Panipat,Israna,Chamrara,P.H,29.22184457,76.8859651,950,2
+1245,Panipat,Israna,Brahman Majra,D/W,29.31,76.86,2250,1
+1246,Panipat,Israna,Bhudsham,D/W,29.29758698,76.93848368,950,2
+1247,Panipat,Israna,Bandh,D/W,29.24,76.85,1000,2
+1248,Panipat,Israna,Chichrana,P.H,29.29704341,76.71714117,700,2
+1249,Panipat,Israna,Karad,P.H,29.29608494,76.81701217,800,2
+1250,Panipat,Israna,Kaith,D/W,29.23735973,76.81104233,2400,1
+1251,Panipat,Israna,Puthar,P.H,29.21,76.86,2100,1
+1252,Panipat,Israna,Seenk,D/W,29.31,76.65,2250,1
+1253,Panipat,Israna,Israna,P/T,29.28781497,76.85017638,1450,2
+1254,Panipat,Israna,Naultha,P/H,29.31239057,76.89977191,850,2
+1255,Panipat,Bapauli,Jalmana,PH,29.33148377,77.11261642,950,2
+1256,Panipat,Bapauli,Taharpur,PH,29.28608495,77.09747003,850,2
+1257,Panipat,Bapauli,Dadola,P/T,29.33731537,77.03501987,850,2
+1258,Panipat,Bapauli,Pasina Kalan,PH,29.30698045,77.0240868,750,2
+1259,Panipat,Bapauli,Bapoli,P/T,29.33195701,77.08309093,650,2
+1260,Panipat,Bapauli,Goela Khurd,D/W,29.29778315,77.12934455,950,2
+1261,Panipat,Bapauli,Biholi,PH,29.29693906,77.04551773,650,2
+1262,Jind,Jind,Brah Kalan,PT,29.30948654,76.41339818,2200,1
+1263,Jind,Jind,Bibipur,DW,29.2382971,76.27910426,1600,2
+1264,Jind,Jind,Igra,DW,29.22163975,76.24827786,2100,1
+1265,Jind,Jind,Kharak Ramji,DW,29.3,76.43,1000,2
+1266,Jind,Jind,Pindara,DW,29.3015168,76.36110971,2600,1
+1267,Jind,Jind,Roopgarh,PT,29.38306765,76.30371939,5000,1
+1268,Jind,Jind,Rajpura,PT,29.28456006,76.22266887,1700,2
+1269,Jind,Jind,Ikkas,PT,29.29321296,76.26363492,1000,2
+1270,Jind,Jind,Julani,DW,29.3397509,76.27270136,3000,1
+1271,Jind,Jind,Lochab,DW,29.36,76.43,2600,1
+1272,Jind,Jind,Khunga,PT,29.37589275,76.41629641,1600,2
+1273,Jind,Jind,Pokari Kheri,PT,29.25,76.23,1500,2
+1274,Jind,Jind,Ramgarh,PT,29.26190369,76.28067723,1400,2
+1275,Jind,Jind,Sangatpura,DW,29.33,76.23,4300,1
+1276,Jind,Jind,Ahirka,PT,29.35,76.3,1400,2
+1277,Jind,Jind,Jhanj Kalan,DW,29.36493073,76.27624563,2600,1
+1278,Jind,Jind,Brah Khurd,DW,29.3,76.4,2200,1
+1279,Jind,Jind,Dalamwala,DW,29.3837713,76.3793741,1700,2
+1280,Jind,Jind,Manoharpur,DW,29.34233492,76.39809957,2000,2
+1281,Jind,Jind,Khokhri,PT,29.35832517,76.35992662,1300,2
+1282,Jind,Jind,Nidani,DW,29.25389952,76.41379722,2700,1
+1283,Jind,Jind,Bhairo Khera,DW,29.20870492,76.47327141,2000,2
+1284,Jind,Jind,Lalit Khera,DW,29.25429255,76.47136013,2700,1
+1285,Jind,Julana,Deorar,DW,29.08233737,76.37492371,5600,1
+1286,Jind,Julana,Garhwali Khera,PT,29.13751523,76.34968937,4800,1
+1287,Jind,Julana,Hathwala,DW,29.0904371,76.45634411,2000,2
+1288,Jind,Julana,Kinana,DW,29.23264028,76.33340966,4000,1
+1289,Jind,Julana,Dhigana,DW,29.21458536,76.43990083,4500,1
+1290,Jind,Julana,Karsola,DW,29.14317303,76.41066939,4400,1
+1291,Jind,Julana,Lajwana Kalan,DW,29.14131791,76.46175925,2200,1
+1292,Jind,Julana,Malvi,DW,29.09293021,76.3330824,2900,1
+1293,Jind,Julana,Pouli,DW,29.12892548,76.32570698,2000,2
+1294,Jind,Julana,Rajgarh,DW,29.13690038,76.36705315,9300,0
+1295,Jind,Julana,Julana,KOW/DW,29.1166157,76.4127675,3800,1
+1296,Jind,Julana,Julana,PT,29.11523681,76.40072913,1400,2
+1297,Jind,Julana,Shamlo Kalan,DW,29.19954977,76.40195321,2900,1
+1298,Jind,Julana,Brar Khera,DW,29.21535884,76.31866891,1800,2
+1299,Jind,Julana,Buwana,DW,29.2,76.31,4500,1
+1300,Jind,Julana,Fatehgarh,DW,29.16,76.45,3000,1
+1301,Jind,Julana,Akalgarh,DW,29.11419218,76.46092928,2700,1
+1302,Jind,Julana,Karela,DW,29.08086316,76.43231679,8200,0
+1303,Jind,Alewa,Durana,PT,29.51906515,76.46948876,3600,1
+1304,Jind,Alewa,Gohiyan,DW,29.43034488,76.43878238,2700,1
+1305,Jind,Alewa,Hasanpur,PT,29.45,76.4,4600,1
+1306,Jind,Alewa,Khanda,PT,29.45,76.46,1200,2
+1307,Jind,Alewa,Nagura,DW,29.43108356,76.37075382,2500,1
+1308,Jind,Alewa,Alewa,KOW/DW,29.48347279,76.44315651,1500,2
+1309,Jind,Alewa,Alewa,PT,29.47730032,76.43937991,1400,2
+1310,Jind,Alewa,Dehola,DW,29.4816711,76.35002215,3100,1
+1311,Jind,Alewa,Katwal,PT,29.51176276,76.45001904,2600,1
+1312,Jind,Alewa,Pega,PT,29.50280248,76.40310909,6500,0
+1313,Jind,Alewa,Sandil,DW,29.56301465,76.33595394,4000,1
+1314,Jind,Alewa,Thuwa,DW,29.53,76.34,3000,1
+1315,Jind,Alewa,Shamdo,PT,29.48509978,76.39751178,1300,2
+1316,Jind,Narwana,Belarkha,PT,29.66,76.12,7600,0
+1317,Jind,Narwana,Dhamtan,DW,29.69244397,76.01435207,2000,2
+1318,Jind,Narwana,Dablain,DW,29.58,76.06,400,2
+1319,Jind,Narwana,Kalwan,PT,29.7,75.96,700,2
+1320,Jind,Narwana,Rasidan,PT,29.71875962,76.02959013,1400,2
+1321,Jind,Narwana,Ujhana,PT,29.71,76.13,400,2
+1322,Jind,Narwana,Ujhana,KOW,29.722,76.135,2400,1
+1323,Jind,Narwana,Jajanwala,DW,29.5,75.94,3300,1
+1324,Jind,Narwana,Narwana,PT,29.585293,76.11023101,1600,2
+1325,Jind,Narwana,Danoda Khurd,PT,29.52340822,75.98327488,12800,0
+1326,Jind,Narwana,Badowala,DW,29.44839957,76.33988668,4200,1
+1327,Jind,Narwana,Dharodi,DW,29.63156263,76.06165617,4000,1
+1328,Jind,Narwana,Phulia Kalan,DW,29.63968953,75.99654307,2200,1
+1329,Jind,Narwana,Hamirgarh,DW,29.66370811,76.08277348,5800,1
+1330,Jind,Narwana,Kharal,DW,29.7,76.06,1500,2
+1331,Jind,Narwana,Kharadwal,DW,29.61,75.96,1800,2
+1332,Jind,Narwana,Padarth Khera,DW,29.79328139,76.10162357,1800,2
+1333,Jind,Narwana,Sainthly,DW,29.49335782,75.99753729,2600,1
+1334,Jind,Narwana,Sucha Khera,DW,29.55,76.04,1600,2
+1335,Jind,Narwana,Dindoli,PT,29.80531201,76.14372483,1600,2
+1336,Jind,Narwana,Dhanori,RWHS,29.7738025,76.16743322,1900,2
+1337,Jind,Narwana,Singhwal,DW,29.6,76.22,2200,1
+1338,Jind,Narwana,Dhakal,DW,29.58,76.16,2500,1
+1339,Jind,Narwana,Koel,DW,29.75,76.18,2200,1
+1340,Jind,Narwana,Nepewala,DW,29.75,76.14,1600,2
+1341,Jind,Narwana,Hatho,DW,29.6187698,76.1827571,4800,1
+1342,Jind,Narwana,Bhana Brahman,DW,29.65420934,76.17661609,7000,0
+1343,Jind,Narwana,Gurusar,DW,29.6698668,76.17087149,2400,1
+1344,Jind,Narwana,Ambersar,PT,29.69145381,76.14446012,7000,0
+1345,Jind,Narwana,Loan,DW,29.67029129,76.04450772,2500,1
+1346,Jind,Narwana,Lochab,DW,29.63146761,75.98593703,3300,1
+1347,Jind,Narwana,Amargarh,DW,29.61194376,76.00550696,1400,2
+1349,Jind,Narwana,Kaloda Kalan,DW,29.57450149,75.97587867,5500,1
+1350,Jind,Narwana,Danoda Kalan,DW,29.51565562,76.00286023,2000,2
+1351,Jind,Narwana,Pipaltha,PT,29.75331168,76.09375719,2100,1
+1352,Jind,Uchana,Budain,PT,29.41925653,76.11380971,3000,1
+1353,Jind,Uchana,Dumerkha Kalan,DW,29.55667368,76.14584261,2600,1
+1354,Jind,Uchana,Khatkar,DW,29.40067585,76.24178057,4300,1
+1355,Jind,Uchana,Kakrod,DW,29.45077758,76.08511539,5900,1
+1356,Jind,Uchana,Palwan,DW,29.47635761,76.19195711,7600,0
+1357,Jind,Uchana,Baroda,DW,29.43553966,76.21473074,2400,1
+1358,Jind,Uchana,Chhater,DW,29.50764979,76.31685098,2700,1
+1359,Jind,Uchana,Durjanpur,DW,29.45,76.02,5500,1
+1360,Jind,Uchana,Karsindhu,DW,29.49558831,76.21940127,1500,2
+1361,Jind,Uchana,Gainda Khera,DW,29.50631256,76.24157818,600,2
+1362,Jind,Uchana,Kabarchha,DW,29.54906492,76.20780429,2600,1
+1363,Jind,Uchana,Mangalpur,DW,29.50954796,76.06685907,2300,1
+1364,Jind,Uchana,Rojkhera,DW,29.45120614,76.2412423,1900,2
+1365,Jind,Uchana,Dhankheri,DW,29.42,76.32,2600,1
+1366,Jind,Uchana,Uchana,KOW/DW,29.4571533,76.17602408,2600,1
+1367,Jind,Uchana,Uchana,PT,29.46217925,76.17469058,2500,1
+1368,Jind,Uchana,Khapar,DW,29.42017381,76.17609741,2500,1
+1369,Jind,Uchana,Bhongra,DW,29.43,76.15,5900,1
+1370,Jind,Uchana,Sudkain Kalan,DW,29.55663254,76.20056994,1600,2
+1371,Jind,Uchana,Kheri Masania,DW,29.48423593,76.15714323,2700,1
+1372,Jind,Uchana,Mandi Kalan,DW,29.56708052,76.30282402,4000,1
+1373,Jind,Uchana,Ghogrian,DW,29.4575579,76.26070644,2700,1
+1374,Jind,Safidon,Anta,PT,29.41067404,76.71328331,2000,2
+1375,Jind,Safidon,Hoshiarpura,PT,29.36,76.56,2000,2
+1376,Jind,Safidon,Paju Khurd,PT,29.43,76.61,2200,1
+1377,Jind,Safidon,Rojhla,DW,29.36,76.6,2100,1
+1401,Hisar,Adampur,Alakhpura,Dug well,29.3284451,75.45221684,6880,0
+1402,Hisar,Adampur,Bagla,Dug well,29.18,75.47,1810,2
+1403,Hisar,Adampur,Choudhariwali,T/Reported,29.14,75.4,3820,1
+1404,Hisar,Adampur,Daroli,Dug well,29.28329411,75.39643772,6160,0
+1405,Hisar,Adampur,Dhani Mohabatpur,Dug well,29.21,75.43,2690,1
+1406,Hisar,Adampur,Gursal,Dug well,29.1642867,75.41382607,3480,1
+1407,Hisar,Adampur,Kabrel,Reported,29.18844215,75.51509491,6760,0
+1408,Hisar,Adampur,Kharampur,Reported,29.30858113,75.52387699,6750,0
+1409,Hisar,Adampur,Kohali,Dug well,29.28704829,75.51707724,3670,1
+1410,Hisar,Adampur,Ladwi,Dug well,29.23641864,75.55225679,1710,2
+1411,Hisar,Adampur,Moda Khera,Dug well,29.22643383,75.42394961,8140,0
+1412,Hisar,Adampur,Sadalpur,Dug well,29.31493257,75.4478078,6180,0
+1413,Hisar,Adampur,Siswal,Dug well,29.22096928,75.5041366,4250,1
+1414,Hisar,Adampur,Adampur,PT/Dug well,29.28,75.36,6580,0
+1415,Hisar,Adampur,Krishangarh,T/Reported,29.301,75.443,2130,1
+1416,Hisar,Adampur,Mahalsara,T/Reported,29.259,75.545,4480,1
+1417,Hisar,Adampur,Modsara,T/Reported,29.26,75.568,6690,0
+1418,Hisar,Adampur,Khara Barwala,Dug well,29.29911963,75.45881005,3840,1
+1419,Hisar,Agroha,Agroha,I.W.,29.32293788,75.64196974,740,2
+1420,Hisar,Agroha,Chikanwas,Dug well,29.27223119,75.65976235,1970,2
+1421,Hisar,Agroha,Sabarwas,T/Reported,29.399,75.631,1540,2
+1422,Hisar,Agroha,Shyamsukh,T/Reported,29.319,75.748,1570,2
+1423,Hisar,Agroha,Durjanpur,P/T working,29.25,75.58,19800,0
+1424,Hisar,Agroha,Jagan at Asrawa,Dug well,29.27329424,75.61134623,1790,2
+1425,Hisar,Agroha,Fransi,Dug well,29.3,75.6,570,2
+1426,Hisar,Agroha,Mirpur,KOW Dug well,29.34,75.637,1640,2
+1427,Hisar,Agroha,Kali Rawan at Khasamahajan,Dug well,29.29,75.56,1530,2
+1428,Hisar,Agroha,Kanoh,Dug well,29.38,75.75,2470,1
+1429,Hisar,Agroha,Kirori,Dug well,29.31,75.76,1770,2
+1430,Hisar,Agroha,Kirmara,Dug well,29.37128803,75.70279163,1830,2
+1431,Hisar,Agroha,Kuleri,Working,29.36,75.66,3740,1
+1432,Hisar,Agroha,Landhari,P/Tworking,29.3,75.65,14910,0
+1433,Hisar,Agroha,Nangthala,Dug well,29.31335454,75.70784353,3680,1
+1434,Hisar,Agroha,Sarangpur,T/Reported,29.3365436,75.53445158,2740,1
+1435,Hisar,Agroha,Sandol,Dug well,29.35,75.72,2380,1
+1436,Hisar,Agroha,Siwani Bolan,Dug well,29.41,75.68,4440,1
+1438,Hisar,Bass,Badala,Dug well,29.12274607,76.15388152,2600,1
+1439,Hisar,Bass,Bad Chhaper,Dug well,29.1117584,76.30156895,2370,1
+1440,Hisar,Bass,Bhaklana,Dug well,29.14495705,76.23869583,2980,1
+1441,Hisar,Bass,Bass,KOW Dug well,29.10808995,76.19997784,3610,1
+1442,Hisar,Bass,Bhatol Jattan,Dug well,29.10372989,76.10811485,5760,1
+1443,Hisar,Bass,Dharam Kheri,Dug well,29.16539606,75.94797298,4190,1
+1444,Hisar,Bass,Khanda Kheri,T/Reported,29.193084,76.20754649,7170,0
+1445,Hisar,Bass,Kharbala,Dug well,29.07498553,76.15668206,1720,2
+1446,Hisar,Bass,Kumba,Dug well,29.42218349,76.00800574,9560,0
+1447,Hisar,Bass,Madan Heri,T/Reported,29.04333123,76.22220349,1170,2
+1448,Hisar,Bass,Puthi,Dug well,29.07251315,76.26261304,1850,2
+1449,Hisar,Bass,Thurana,Dug well,29.15257094,76.11661167,6650,0
+1450,Hisar,Bass,Ugalan,Dug well,29.166,76.257,3740,1
+1451,Hisar,Bass,Khera,Dug well,29.18315265,76.21232227,4220,1
+1452,Hisar,Bass,Bass Badshahpur,Dug well,29.09973013,76.20122067,1880,2
+1453,Hisar,Bass,Mohla,Dug well,29.128,76.275,2570,1
+1454,Hisar,Bass,Sisar,Dug well,29.061,76.157,3480,1
+1455,Hisar,Bass,Singhwa Khass,Dug well,29.018,76.222,1450,2
+1456,Hisar,Barwala,Balak,Dug well,29.36,75.78,1830,2
+1457,Hisar,Barwala,Barwala,KOW Dug well,29.36035621,75.91346176,2870,1
+1458,Hisar,Barwala,Bhanii Badshahpur,Dug well,29.40783956,75.87080387,5590,1
+1459,Hisar,Barwala,Bobuwa,Dug well,29.44650085,75.95679896,1910,2
+1460,Hisar,Barwala,Badhawar,Dug well,29.33,75.96,1720,2
+1461,Hisar,Barwala,Banbhori,Dug well,29.39902842,76.0499356,6870,0
+1462,Hisar,Barwala,Chhann,Dug well,29.41980244,76.05521674,2930,1
+1463,Hisar,Barwala,Dhigtana,Dug well,29.26168191,75.80622202,4580,1
+1464,Hisar,Barwala,Dhand,Dug well,29.3167418,75.98577915,3750,1
+1465,Hisar,Barwala,Dhani Mirdad,Dug well,29.30243975,75.90645065,3885,1
+1466,Hisar,Barwala,Gabipur at Nayagaon,Dug well,29.42543764,75.93405391,2725,1
+1467,Hisar,Barwala,Juglan,Dug well,29.2577908,75.76216217,1813,2
+1468,Hisar,Barwala,Khedar,Dug well,29.35699002,75.86389295,1585,2
+1469,Hisar,Barwala,Khark Poonia,Dug well,29.35220944,76.00349341,1703,2
+1470,Hisar,Barwala,Khumba Khera,Dug well,29.43,76.01,1935,2
+1471,Hisar,Barwala,Panghal,Dug well,29.30389863,75.88264877,2245,1
+1472,Hisar,Barwala,Matloda,Dug well,29.39413613,76.0081692,2453,1
+1473,Hisar,Barwala,Rajli,Dug well,29.27618689,75.8711043,2473,1
+1474,Hisar,Barwala,Sadlana,Dug well,29.41400699,76.06916097,2952,1
+1475,Hisar,Barwala,Sarsana,Dug well,29.04920638,75.54188672,1794,2
+1476,Hisar,Barwala,Sarsod Bichpari,Dug well,29.31360768,75.83351666,5635,1
+1477,Hisar,Barwala,Barwala,P/T,29.36776632,75.92426488,2737,1
+1478,Hisar,Barwala,Sulkhani,Dug well,29.2332886,75.8491764,2457,1
+1479,Hisar,Barwala,Bado Patti,Dug well,29.28,75.81,1811,2
+1480,Hisar,Barwala,Panihari,Dug well,29.352,76.047,1898,2
+1481,Hisar,Barwala,Dhani Garan,Dug well,29.33691914,75.87089339,2740,1
+1482,Hisar,Barwala,Bugana,Dug well,29.256,75.826,1631,2
+1483,Hisar,Hansi,Chanot,Dug well,29.2080945,75.92679857,2577,1
+1484,Hisar,Hansi,Datta,Dug well,29.26,75.99,1818,2
+1485,Hisar,Hansi,Dhani Thakriyan,Dug well,29.06533716,75.94201216,4350,1
+1486,Hisar,Hansi,Dhana Kalan,Dug well,29.08259266,76.01451066,2152,1
+1487,Hisar,Hansi,Dhana Khurd,Dug well,29.07144202,76.0148332,3847,1
+1488,Hisar,Hansi,Ghirai,Dug well,29.23069084,75.88502682,6173,0
+1489,Hisar,Hansi,Gurana,Dug well,29.30040464,75.96796294,3565,1
+1490,Hisar,Hansi,Hazampur,Dug well,29.00983166,75.9638576,1910,2
+1491,Hisar,Hansi,Hansi Bir (Rajiv N.),Dug well,29.13601143,75.97596104,1947,2
+1492,Hisar,Hansi,Jaga Bara,T/Reported,29.15536704,75.960798,3415,1
+1493,Hisar,Hansi,Jamawari,T/Reported,29.13,76.04,1048,2
+1494,Hisar,Hansi,Kheri Gangan,Dug well,29.15,76.03,3240,1
+1495,Hisar,Hansi,Kulana,Dug well,29.1472262,75.90764666,2727,1
+1496,Hisar,Hansi,Mamanpura,T/Reported,29.06595977,75.90505292,4568,1
+1497,Hisar,Hansi,Mehanda,Dug well,29.05148786,76.05796389,1777,2
+1498,Hisar,Hansi,Masudpur,Dug well,29.21,75.97,2835,1
+1499,Hisar,Hansi,Puthi Mangal Khan (Dhani Gujran),Reported,29.0255133,75.93903602,2531,1
+1500,Hisar,Hansi,Saladeri,Dug well,29.25352302,75.93554662,2438,1
+1501,Hisar,Hansi,Singwa Ragho,Dug well,29.22996621,75.92489989,2455,1
+1502,Hisar,Hansi,Sekhpura,KOW Dug well,29.12439438,76.00088434,1142,2
+1503,Hisar,Hansi,Sorkhi,Dug well,29.05,76.11,1405,2
+1504,Hisar,Hansi,Sultanpur,Dug well,29.02539769,75.85738003,1728,2
+1505,Hisar,Hansi,Sisai,Dug well,29.18571582,76.01030925,4877,1
+1506,Hisar,Hansi,Umra,Dug well,29.01,75.89,1730,2
+1507,Hisar,Hansi,Muzadpur,Dug well,29.22307817,75.97473434,1865,2
+1508,Hisar,Hansi,Hansi,KOW,29.10432778,75.95804965,3735,1
+1509,Hisar,Hansi,Depal,Dug well,29.0747942,75.90475635,5984,1
+1510,Hisar,Hansi,Bhatla,Dug well,29.18006106,75.9267644,2870,1
+1511,Hisar,Hisar-I,Bhagana,Dug well,29.06611332,75.85203262,5890,
+1512,Hisar,Hisar-I,Charnaund,Dug well,29.01,75.66,2435,
+1513,Hisar,Hisar-I,Dabra,Reported,29.10331034,75.75883626,4215,
+1514,Hisar,Hisar-I,Dahiyama,Dug well,29.04552251,75.79990232,1848,
+1515,Hisar,Hisar-I,Daya,Dug well,29.00946646,75.73878022,3275,
+1516,Hisar,Hisar-I,Dhani Raipur,Dug well,29.13941666,75.80880836,9743,
+1517,Hisar,Hisar-I,Dhansu,Dug well,29.22582897,75.79435779,1310,
+1518,Hisar,Hisar-I,Hari Kot,Dug well,29.05126483,75.72640352,1745,
+1519,Hisar,Hisar-I,Gangwa,T/Reported,29.11041407,75.68310268,2865,
+1520,Hisar,Hisar-I,Harita,Dug well,28.97102818,75.74988176,1560,
+1521,Hisar,Hisar-I,Kamari,Dug well,29.09603892,75.71705277,2830,
+1522,Hisar,Hisar-I,Kharar Alipur,Dug well,29.14427839,75.86925555,970,
+1523,Hisar,Hisar-I,Kanwari,Dug well,28.98665982,75.81683291,1855,
+1524,Hisar,Hisar-I,Hisar City,Dug well,29.163,75.729,7570,
+1525,Hisar,Hisar-I,Khoka,Dug well,29.17741969,75.88623762,2635,
+1526,Hisar,Hisar-I,Ladwa,KOW Dug well,29.06060197,75.80367531,5840,
+1527,Hisar,Hisar-I,Mangali,T/Reported,29.03593941,75.73571559,5861,
+1528,Hisar,Hisar-I,Mirzapur,T/Reported,29.2042384,75.81367418,7405,
+1529,Hisar,Hisar-I,Mirka,Dug well,29.08259872,75.76145476,1571,
+1530,Hisar,Hisar-I,Niyana,Dug well,29.17441309,75.84464759,3378,
+1531,Hisar,Hisar-I,Satrod Kalan,Dug well,29.10925096,75.82134143,4851,
+1532,Hisar,Hisar-I,Talwandi Rana,T/Reported,29.21249731,75.75178744,1874,
+1533,Hisar,Hisar-I,Bure,Dug well,28.94195807,75.76387426,1470,
+1534,Hisar,Hisar-I,Chirod,Dug well,29.01480676,75.67395757,8115,
+1535,Hisar,Hisar-I,Nalwa,Dug well,28.93800676,75.82580563,2635,
+1536,Hisar,Hisar-I,Shaharwa,T/Reported,28.93024959,75.74336426,2810,
+1537,Hisar,Hisar-I,Rawat Khera,Dug well,28.99214092,75.68179399,3335,
+1538,Hisar,Hisar-I,Talwandi Badaspur,Dug well,28.92645926,75.69547894,3815,
+1539,Hisar,Hisar-I,Mayar,Dug well,29.101,75.863,4182,
+1540,Hisar,Hisar-I,Satrod Khurd,Dug well,29.12616275,75.79474859,2980,
+1541,Hisar,Hisar-I,Singhran,T/Reported,29.039,75.689,1432,
+1542,Hisar,Hisar-I,Dhamana,Dug well,29.03444631,75.79921912,2771,
+1543,Hisar,Hisar-I,Payal,Dug well,28.971,75.698,2436,
+1544,Hisar,Hisar-II,Balsamand,Dug well,29.06657766,75.48372717,5710,
+1545,Hisar,Hisar-II,Banda Heri,Dug well,29.11498183,75.42359435,1840,
+1546,Hisar,Hisar-II,Basara,Dug well,29.02684578,75.51318998,3275,
+1547,Hisar,Hisar-II,Bhiwani Rohila,Dug well,29.07698721,75.53804342,4755,
+1548,Hisar,Hisar-II,Burak,Dug well,29.0733299,75.41436254,1740,
+1549,Hisar,Hisar-II,Deva,Dug well,29.06967869,75.67994412,3570,
+1550,Hisar,Hisar-II,Dobi,Dug well,29.12591934,75.49350121,1845,
+1551,Hisar,Hisar-II,Hindwan,Dug well,29.12,75.61,1970,
+1552,Hisar,Hisar-II,Hisar,KOW Dug well,29.17348163,75.72009062,3580,
+1553,Hisar,Hisar-II,Kalwas,Dug well,29.04639563,75.65459731,1625,
+1554,Hisar,Hisar-II,Ludas,Dug well,29.15833985,75.63390064,9240,
+1555,Hisar,Hisar-II,Matter Shyam,Dug well,29.17219962,75.58891155,1423,
+1556,Hisar,Hisar-II,Neolikalan,Dug well,29.19729305,75.63995524,1941,
+1557,Hisar,Hisar-II,Neoli Khurd,Dug well,29.20453704,75.61002686,4000,
+1558,Hisar,Hisar-II,Ralwas Kalan,Dug well,29.06893806,75.57815215,3550,
+1559,Hisar,Hisar-II,Ralwas Khurd,T/Reported,29.09848283,75.58669188,7984,
+1560,Hisar,Hisar-II,Sundawas,Dug well,29.10378684,75.51493126,1748,
+1561,Hisar,Hisar-II,Tokas Patan,Dug well,29.09083269,75.64945305,2537,
+1562,Hisar,Hisar-II,Gawar,Dug well,28.9885062,75.55195722,1730,
+1563,Hisar,Hisar-II,Choudhariwas,Dug well,29.01566938,75.6012541,1625,
+1564,Hisar,Hisar-II,Panihari Chak,Dug well,29.04542855,75.60166435,2675,
+1565,Hisar,Hisar-II,Hisar,Digital data logger fitted,29.16633406,75.71704794,2250,
+1566,Hisar,Hisar-II,Sali Farm,T/Reported,29.22586546,75.67501879,1654,
+1567,Hisar,Hisar-II,Jakhod Khera,T/Reported,29.211,75.57,252,
+1568,Hisar,Hisar-II,Salemgarh,Reported,29.18886664,75.54074291,2744,
+1569,Hisar,Hisar-II,Kirtan,Dug well,29.13899226,75.56184959,2435,
+1570,Hisar,Hisar-II,Kharia,Dug well,29.13863316,75.52121824,1720,
+1571,Hisar,Hisar-II,Sarsana,Dug well,29.362,76.018,2315,
+1572,Hisar,Hisar-II,Mallapur,Dug well,29.229,75.586,1395,
+1573,Hisar,Hisar-II,Bir Farm,T/Reported,29.18,75.75,1831,
+1574,Hisar,Hisar-II,Shahpur,Dug well,29.16647326,75.615933,7885,
+1575,Hisar,Hisar-II,Gorchhi,Dug well,29.028,75.561,2930,
+1576,Hisar,Hisar-II,Bherian,Dug well,29.05338923,75.62674267,2710,
+1577,Hisar,Narnaund,Budana,Dug well,29.26,76.12,3520,
+1578,Hisar,Narnaund,Gamra,T/Reported,29.28,76.08,4937,
+1579,Hisar,Narnaund,Kagsar,I.Wworking,29.22637099,76.20995733,1760,
+1580,Hisar,Narnaund,Kapro,Dug well,29.38,76.1,2838,
+1581,Hisar,Narnaund,Kheri Jalab,Dug well,29.32249971,76.08446395,1635,
+1582,Hisar,Narnaund,Kinnar,Dug well,29.33,76.13,1773,
+1583,Hisar,Narnaund,Koth Kalan,Dug well,29.38,76.16,2760,
+1584,Hisar,Narnaund,Lohari Ragho,Dug well,29.25432504,76.0503874,1256,
+1585,Hisar,Narnaund,Majra,KOW Dug well,29.18,76.11,3810,
+1586,Hisar,Narnaund,Milakpur,T/Reported,29.28380479,76.15813239,2635,
+1587,Hisar,Narnaund,Mirchpur,Dug well,29.314,76.176,2561,
+1588,Hisar,Narnaund,Moth Rangran,Dug well,29.23583259,76.07100702,3973,
+1589,Hisar,Narnaund,Rajthal,I.W working,29.25,76.18,1580,
+1590,Hisar,Narnaund,Sulchani,T/Reported,29.20591693,76.16822763,2470,
+1591,Hisar,Narnaund,Petwar,Dug well,29.16303534,76.16242812,6827,
+1592,Hisar,Narnaund,Rakhi Sahapur,Dug well,29.28,76.11,1610,
+1593,Hisar,Narnaund,Narnaund,P.T,29.21,76.13,2857,
+1594,Hisar,Narnaund,Gandas,T/Reported,29.366,76.126,3461,
+1595,Hisar,Narnaund,Habatpur,Dug well,29.299,76.083,1372,
+1596,Hisar,Narnaund,Kheri Roj,Dug well,29.25,76.15,1237,
+1597,Hisar,Narnaund,Madha,Reported,29.201,76.08,1927,
+1598,Hisar,Narnaund,Pali,T/Reported,29.17349611,76.0775395,1144,
+1599,Hisar,Narnaund,Dhani Kumharia,Dug well,29.22,76.06,2620,
+1600,Hisar,Narnaund,Rajpura,T/Reported,29.19,76.07,1455,
+1601,Hisar,Uklana,Bithmara,Dug well,29.5352217,75.92452524,4585,
+1602,Hisar,Uklana,Budha Khera,T/Reported,29.49171449,75.88267817,3717,
+1603,Hisar,Uklana,Dolatpur,Dug well,29.44,75.86,1925,
+1604,Hisar,Uklana,Faridpur,Dug well,29.42311687,75.83275284,1523,
+1605,Hisar,Uklana,Hansawala,T/Reported,29.49386374,75.85322891,5320,
+1606,Hisar,Uklana,Kinala,Dug well,29.46034256,75.80259477,2610,
+1607,Hisar,Uklana,Litani,Dug well,29.47998914,75.98147354,3512,
+1608,Hisar,Uklana,Nehala,Dug well,29.43355692,75.73452633,2875,
+1609,Hisar,Uklana,Parbhuwala,Dug well,29.48428673,75.90391872,1590,
+1610,Hisar,Uklana,Pabra,Dug well,29.41,75.78,1870,
+1611,Hisar,Uklana,Sahu,Dug well,29.5,75.83,1585,
+1612,Hisar,Uklana,Sadlana,T/Reported,29.421,76.07,2538,
+1613,Hisar,Uklana,Uklana,KOW/Dug well,29.50879177,75.87681889,4551,
+1614,Hisar,Uklana,Kallar Bhaini,T/Reported,29.47116944,75.93404873,1440,
+1615,Fatehabad,Fatehabad,Birdhana,T/Reported,29.54347004,75.54886173,1975,
+1616,Fatehabad,Fatehabad,Bigar,Dug well,29.44947918,75.45505816,1790,
+1617,Fatehabad,Fatehabad,Bhodia Khera,T/Reported,29.48596842,75.42504791,3070,
+1618,Fatehabad,Fatehabad,Badopal,Dug well,29.41,75.55,6780,
+1619,Fatehabad,Fatehabad,Bangaon,T/Reported,29.44553833,75.42361324,1235,
+1620,Fatehabad,Fatehabad,Bhuthan Kalan,T/Reported,29.54542894,75.59534362,2551,
+1621,Fatehabad,Fatehabad,Chindhar,T/Reported,29.37,75.54,20070,
+1622,Fatehabad,Fatehabad,Dharnia,Dug well,29.408,75.508,3274,
+1623,Fatehabad,Fatehabad,Dariapur,T/Reported,29.46,75.51,1790,
+1624,Fatehabad,Fatehabad,Dhangar,KOW,29.46998356,75.51150804,1830,
+1625,Fatehabad,Fatehabad,Hizrowan Kalan,T/Reported,29.55632683,75.40036632,1775,
+1626,Fatehabad,Fatehabad,Jhalania,T/Reported,29.51789429,75.55743745,1245,
+1627,Fatehabad,Fatehabad,Kharati Khera,T/Reported,29.49756654,75.36883331,2467,
+1628,Fatehabad,Fatehabad,Kajal Heri,T/Reported,29.43,75.6,1230,
+1629,Fatehabad,Fatehabad,Kharakheri,Dug well,29.384276,75.57894604,1695,
+1630,Fatehabad,Fatehabad,Khumber,T/Reported,29.59449762,75.49318279,1555,
+1631,Fatehabad,Fatehabad,Mohomadpur Rohi,T/Reported,29.4538552,75.56313155,1235,
+1632,Fatehabad,Fatehabad,Manawali,T/Reported,29.47502065,75.38807929,1153,
+1633,Fatehabad,Fatehabad,Matana,T/Reported,29.47505551,75.47766811,1535,
+1634,Fatehabad,Fatehabad,Khajuri,T/Reported,29.48,75.61,1285,
+1635,Fatehabad,Fatehabad,Karnoli,Dug-cum-bore,29.543,75.314,1625,
+1636,Fatehabad,Fatehabad,Sadar Ahli,T/Reported,29.571,75.334,1670,
+1637,Fatehabad,Fatehabad,Mallahar,T/Reported,29.579,75.454,1328,
+1638,Fatehabad,Fatehabad,Salam Khera,T/Reported,29.429,75.504,3877,
+1639,Fatehabad,Fatehabad,Ayalki IW,T/Reported,29.56617801,75.49772173,1288,
+1640,Fatehabad,Ratia,Alalwas,P/T,29.71142492,75.48214036,2722,
+1641,Fatehabad,Ratia,Aharwa,P/T,29.6,75.53,1565,
+1642,Fatehabad,Ratia,Bamanwala,T/Reported,29.75881017,75.54491345,2590,
+1643,Fatehabad,Ratia,Bhundharwas,Reported,29.73142817,75.60099341,3865,
+1644,Fatehabad,Ratia,Ghaswa,Reported,29.67931786,75.6741265,2576,
+1645,Fatehabad,Ratia,Hanspur,Injection Well/Working,29.65,75.34,3261,
+1646,Fatehabad,Ratia,Khai,T/Reported,29.74757838,75.45429753,2590,
+1647,Fatehabad,Ratia,Kamana,T/Reported,29.69662461,75.59912533,3578,
+1648,Fatehabad,Ratia,Lamba,T/Reported,29.70952256,75.65733096,3810,
+1649,Fatehabad,Ratia,Nagpur,I.W working,29.65140881,75.41766021,3470,
+1650,Fatehabad,Ratia,Nangal,T/Reported,29.75798029,75.50084248,2564,
+1651,Fatehabad,Ratia,Nimari,T/Reported,29.66325425,75.47166189,2070,
+1652,Fatehabad,Ratia,Phullan,P/T,29.62,75.51,1885,
+1653,Fatehabad,Ratia,Pilchhian,T/Reported,29.75789034,75.41776989,2336,
+1654,Fatehabad,Ratia,Ratta Khera,T/Reported,29.66,75.51,1495,
+1655,Fatehabad,Ratia,Nikuwana,P/T,29.73267997,75.62881295,1380,
+1656,Fatehabad,Ratia,Kalotha,T/Reported,29.73394308,75.45101434,1740,
+1657,Fatehabad,Ratia,Ratia,P/T working,29.68,75.56,1765,
+1658,Fatehabad,Ratia,Hukamawali,P/T working,29.68161935,75.44131964,2960,
+1659,Fatehabad,Ratia,Munshiwali,P/T working,29.65,75.59,1990,
+1660,Fatehabad,Ratia,Ladhuwas,T/Reported,29.792,75.468,1866,
+1661,Fatehabad,Ratia,Badalgarh,T/Reported,29.758,75.66,1427,
+1662,Fatehabad,Ratia,Birabadi,P/T,29.686,75.363,1770,
+1663,Fatehabad,Ratia,Madh,P/T,29.716,75.4,1230,
+1664,Fatehabad,Ratia,Baliayala,T/Reported,29.731,75.521,1090,
+1665,Fatehabad,Ratia,Ratangarh,T/Reported,29.71879208,75.56827588,1965,
+1666,Fatehabad,Ratia,Nathwan,T/Reported,29.671,75.638,1745,
+1667,Fatehabad,Ratia,Nakta,P/T,29.623,75.384,2710,
+1668,Fatehabad,Ratia,Bharpur,T/Reported,29.657,75.534,1350,
+1669,Fatehabad,Ratia,Chando Kalan,I.W working,29.64,75.624,2140,
+1670,Fatehabad,Ratia,Budanpur,T/Reported,29.71435534,75.81199481,1270,
+1671,Fatehabad,Ratia,Gandha,T/Reported,29.697,75.379,1868,
+1672,Fatehabad,Ratia,Haroli,I.W working,29.653,75.468,2275,
+1673,Fatehabad,Ratia,Pulsar,P/T,29.601,75.587,1251,
+1674,Fatehabad,Tohana,Amani,P.T.,29.67605128,75.8554045,2780,
+1675,Fatehabad,Tohana,Akan Wali,T/Reported,29.67778452,75.78383934,2542,
+1676,Fatehabad,Tohana,Baliyanwala,T/Reported,29.71132086,75.93274531,3665,
+1677,Fatehabad,Tohana,Badhai Khera,T/Reported,29.66266019,75.89361782,2510,
+1678,Fatehabad,Tohana,Budanpur,T/Reported,29.7126854,75.81023,3170,
+1679,Fatehabad,Tohana,Dharsul Khurd,T/Reported,29.67703481,75.72830385,1520,
+1680,Fatehabad,Tohana,Fathepuri,T/Reported,29.64178979,75.84014749,2665,
+1681,Fatehabad,Tohana,Indachhui,T/Reported,29.63530683,75.79181731,2960,
+1682,Fatehabad,Tohana,Kanhari,I.Wworking,29.66639169,75.93038254,5435,
+1683,Fatehabad,Tohana,Kullan,P/T,29.65591998,75.73498418,2774,
+1684,Fatehabad,Tohana,Kamalwala,Dug well,29.69041191,75.92464489,3246,
+1685,Fatehabad,Tohana,Malaheri,T/Reported,29.65,75.91,4471,
+1686,Fatehabad,Tohana,Dhamkora,P.T.,29.71785593,75.86982398,2665,
+1687,Fatehabad,Tohana,Nangla,Dug well,29.61,75.89,3373,
+1688,Fatehabad,Tohana,Jamalpur Sekhan,T/Reported,29.70111308,75.83392315,1705,
+1689,Fatehabad,Tohana,Gajuwala,Dug well,29.577,75.887,3710,
+1690,Fatehabad,Tohana,Parta,T/Reported,29.57129424,75.8436913,3545,
+1691,Fatehabad,Tohana,Simbalwal,P.T.,29.74018874,75.8763796,2870,
+1692,Fatehabad,Tohana,Tohana,I.Working,29.71,75.9,1836,
+1693,Fatehabad,Tohana,Tharwa,I.Wwrking,29.61886929,75.83136771,2534,
+1694,Fatehabad,Tohana,Rasulpur,T/Reported,29.634,75.685,3775,
+1695,Fatehabad,Jakhal,Chandpura,T/Reported,29.77640339,75.73136121,1215,
+1696,Fatehabad,Jakhal,Jakhal Village,P.T.Working,29.79318902,75.82413463,1274,
+1697,Fatehabad,Jakhal,Musa Khera,P.T.Working,29.73034571,75.70225178,1811,
+1698,Fatehabad,Jakhal,Narel,P.T.Working,29.75905158,75.82030361,1393,
+1699,Fatehabad,Jakhal,Sidhani,P.T.Working,29.79083141,75.7300614,1770,
+1700,Fatehabad,Jakhal,Sadhanwas,T/Reported,29.797,75.769,1825,
+1701,Fatehabad,Jakhal,Hederwali,T/Reported,29.70775475,75.79909545,1910,
+1702,Fatehabad,Jakhal,Meond Begamwali,P.T.Working,29.754,75.776,1295,
+1703,Fatehabad,Bhuna,Bhuna,KOW.Working,29.52752245,75.70420664,12765,
+1704,Fatehabad,Bhuna,Chobara,T/Reported,29.47536529,75.67006296,5832,
+1705,Fatehabad,Bhuna,Bajalpur,Dug well,29.48470792,75.70379864,1399,
+1706,Fatehabad,Bhuna,Dhani Gopal,T/Reported,29.51525275,75.76839302,1796,
+1707,Fatehabad,Bhuna,Dholu,T/Reported,29.58969748,75.67433304,1731,
+1708,Fatehabad,Bhuna,Dult,T/Reported,29.55690972,75.72282823,2790,
+1709,Fatehabad,Bhuna,Gorakhpur,Dug well,29.44135047,75.66225577,7424,
+1710,Fatehabad,Bhuna,Jandli Kalan,Dug well,29.48759447,75.6317228,3565,
+1711,Fatehabad,Bhuna,Jandli Khurd,Dug well,29.51954646,75.64414112,1498,
+1712,Fatehabad,Bhuna,Khairi,Dug well,29.53128465,75.66970331,1173,
+1713,Fatehabad,Bhuna,Laharian,T/Reported,29.62024256,75.72948187,1760,
+1714,Fatehabad,Bhuna,Mochiwali,Dug well,29.49401758,75.67532634,3427,
+1715,Fatehabad,Bhuna,Nadhori,T/Reported,29.56,75.65,1218,
+1716,Fatehabad,Bhuna,Bhattu,T/Reported,29.57199535,75.76181775,6487,
+1717,Fatehabad,Bhuna,Saniyana,Dug well,29.53,75.82,3397,
+1718,Fatehabad,Bhuna,Tibi,T/Reported,29.6,75.705,1644,
+1719,Fatehabad,Bhuna,Bhuthan Khurd,T/Reported,29.567,75.6,1967,
+1720,Fatehabad,Bhuna,Bawan,T/Reported,29.59289046,75.7913987,4385,
+1721,Fatehabad,Bhuna,Bosti,Dug well,29.572,75.801,2390,
+1722,Fatehabad,Bhuna,Chandrawal,T/Reported,29.521,75.616,1810,
+1723,Fatehabad,Bhuna,Sanchala,T/Reported,29.55301627,75.77368349,2891,
+1724,Fatehabad,Bhuna,Dahman,T/Reported,29.45230453,75.7120029,2899,
+1725,Fatehabad,Bhattu Kalan,Banawali,T/Reported,29.59666394,75.39480774,12679,
+1726,Fatehabad,Bhattu Kalan,Ban Mandori,T/Reported,29.4,75.28,5581,
+1727,Fatehabad,Bhattu Kalan,Bodiwali,Dug well,29.46769164,75.29890382,2775,
+1728,Fatehabad,Bhattu Kalan,Bhattu Kalan,P/Tube,29.37813821,75.32966682,9840,
+1729,Fatehabad,Bhattu Kalan,Chuli Bagrian,Dug well,29.3225515,75.35703188,2290,
+1730,Fatehabad,Bhattu Kalan,Chuli Khurd,Dug well,29.34689605,75.32689464,3520,
+1731,Fatehabad,Bhattu Kalan,Dayar,T/Reported,29.26540546,75.25505442,3161,
+1732,Fatehabad,Bhattu Kalan,Dhabi Kalan,T/Reported,29.32534765,75.32072551,1273,
+1733,Fatehabad,Bhattu Kalan,Dhingsara,T/Reported,29.43820212,75.36255118,6576,
+1734,Fatehabad,Bhattu Kalan,Gadli,T/Reported,29.32567732,75.34202818,2127,
+1735,Fatehabad,Bhattu Kalan,Jandwala,T/Reported,29.31107031,75.25548273,3317,
+1736,Fatehabad,Bhattu Kalan,Kirdhan,Dug well,29.39756383,75.40015408,2717,
+1737,Fatehabad,Bhattu Kalan,Mehuwala,T/Reported,29.40385658,75.31508413,4260,
+1738,Fatehabad,Bhattu Kalan,Pili Mandori,T/Reported,29.38,75.25,5656,
+1739,Fatehabad,Bhattu Kalan,Ramsara,T/Reported,29.39338076,75.37640717,1767,
+1740,Fatehabad,Bhattu Kalan,Shekhupur Daroli,T/Reported,29.29975503,75.25914804,12385,
+1741,Fatehabad,Bhattu Kalan,Suli Khera,Dug well,29.36,75.36,6180,
+1742,Fatehabad,Bhattu Kalan,Thuyan,Dug well,29.33500751,75.28344754,3166,
+1743,Fatehabad,Bhattu Kalan,Dhabi Khurd,Dug well,29.32557902,75.27900702,1651,
+1744,Fatehabad,Bhattu Kalan,Sarwarpur,T/Reported,29.47798764,75.32446416,6480,
+1745,Fatehabad,Bhattu Kalan,Dhandh,Dug well,29.31512254,75.34478377,2087,
+1746,Fatehabad,Bhattu Kalan,Khabra Kalan,Dug well,29.33110283,75.36760995,2499,
+1747,Fatehabad,Bhattu Kalan,Sirdhan,Dug well,29.431,75.407,1314,
+1748,Fatehabad,Bhattu Kalan,Bhodia Boshnoian,T/Reported,29.35169468,75.59144165,2517,
